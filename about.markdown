@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my blog! I'm Emma (she/her). I have two cats named Aladdin and Luigi, and I'm a DevOps engineer by day. That said, my first love has always been observational astronomy. I was an amateur astronomer when I was young and recently decided I'd give it another go.
+My shop is proudly queer and woman-owned, and I’m committed to creating a welcoming space for all plant lovers. I have a deep passion for plants and love helping people experience their beauty up close. I specialize in exotic and uncommon varieties that stand out for their unique colors, shapes, and textures. Whether you’re new to plant care or already collecting, I’m happy to help you find the right plant for your space. Everything I offer is chosen with care and genuine enthusiasm.
+
+I'm also a proud cat mama of two boys, Luigi and Aladdin!
 
 ![my cats](images/cats.jpg)
-
-I currently observe the night sky with a 10" Orion Intelliscope. It doesn't appear these are sold anymore, but it gave me a great foundation when I was younger. I hope to expand on this setup and eventually get into imaging with an SCT on a GEM in this [b]log (maybe next year!).

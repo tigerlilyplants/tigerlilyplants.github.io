@@ -1,11 +1,11 @@
-title: Observation [b]log
+title: Tiger Lily Plants
 email: emma.ann.doyle@gmail.com
 author: Emma Doyle
 description: |+
-  A place I stash my random observations of the world
+  The official site of Tiger Lily Plants, a place where I post updates about my personal plant collection and store
 baseurl: ""
 url: https://blog.aperiodicity.com
-bluesky_username: emmeowzing
+# bluesky_username: emmeowzing
 github_username:  emmeowzing
 linkedin_username: emmeowzing
 
@@ -29,4 +29,4 @@ relative_links:
   collections: true
 # https://github.com/gjtorikian/jekyll-last-modified-at
 last-modified-at:
-    date-format: '%d-%b-%y'
+  date-format: '%d-%b-%y'
