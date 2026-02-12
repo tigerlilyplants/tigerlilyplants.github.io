@@ -21,3 +21,5 @@ gem 'jekyll-relative-links'
 # gem 'jekyll-last-modified-at'
 gem 'jekyll-paginate'
 gem 'jekyll-bluesky'
+# Redirect /store -> etsy
+gem 'jekyll-redirect-from'
