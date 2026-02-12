@@ -1,10 +1,19 @@
-blog.aperiodicity.com
----------------------
+# Tiger Lily Plants, LLC.
 
-I stash my observation [b]log notes from nights out with my telescope here.
+The official blog and site of Tiger Lily Plants, LLC.
 
-View my [b]log [here](https://blog.aperiodicity.com).
+## New Posts
 
-### Dev notes
+To generate a new blog post, run
+
+```text
+./scripts/new-post.sh
+```
+
+It will generate the proper directory structures under [`site/`](site/).
+
+## Development
 
 If starting on a new (Debian-based linux) machine, run `./scripts/dependencies.sh`.
+
+Requires Ruby >=2.7.

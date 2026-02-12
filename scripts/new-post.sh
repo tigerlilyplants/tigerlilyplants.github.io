@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 # Generate a new post template and associated directories.
 
-POST_LOCATION="./_posts/$(date +%F)-new-post.markdown"
+POST_LOCATION="./site/_posts/$(date +%F)-new-post.markdown"
 
 cat << POST > "$POST_LOCATION"
 ---
