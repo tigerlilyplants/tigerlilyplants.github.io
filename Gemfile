@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
+gem "github-pages"
+
 # We're using jekyll.
-gem "jekyll", "~> 4.4"
+gem "jekyll", "~> 3.9.3"
 
 # Theme
 gem "minima", "~> 2.5"
