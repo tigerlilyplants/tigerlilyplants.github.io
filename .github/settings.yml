@@ -6,5 +6,5 @@ repository:
   homepage: https://tiger-lily-plants.com
 
   # A comma-separated list of topics to set on the repository
-  topics: blog, LLC, company website
+  topics: blog, company website
   private: false
