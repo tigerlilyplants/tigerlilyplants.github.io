@@ -6,5 +6,3 @@ title:  "My orchidarium build"
 # My Orchidarium Build
 
 [Code](https://github.com/tigerlilyplants/orchidarium) Code
-
-<!-- {% last_modified_at %} -->
