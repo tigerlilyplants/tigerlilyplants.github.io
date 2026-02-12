@@ -25,7 +25,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-relative-links
   - jekyll-redirect-from
-  - last-modified-at
+  # - last-modified-at
 
 # https://github.com/benbalter/jekyll-relative-links
 relative_links:
