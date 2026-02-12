@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Store
-permalink: https://etsy.com/shop/TigerLilyPlants
+permalink: /store
+redirect_to:
+  - https://etsy.com/shop/TigerLilyPlants
 ---
