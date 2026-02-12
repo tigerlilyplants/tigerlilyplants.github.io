@@ -34,3 +34,6 @@ exclude:
   - README.md
   - Gemfile.lock
   - Gemfile
+
+whitelist:
+  - jekyll-redirect-from

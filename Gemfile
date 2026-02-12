@@ -20,7 +20,7 @@ gem 'jekyll-github-metadata'
 gem 'jekyll-titles-from-headings'
 gem 'jekyll-gist'
 gem 'jekyll-relative-links'
-# gem 'jekyll-last-modified-at'
+gem 'jekyll-last-modified-at'
 gem 'jekyll-paginate'
 gem 'jekyll-bluesky'
 # Redirect /store -> etsy
