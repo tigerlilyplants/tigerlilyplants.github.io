@@ -4,17 +4,19 @@ author: Emma Doyle
 description: |+
   The official site of Tiger Lily Plants, a place where I post updates about my personal plant collection and store
 baseurl: ""
-url: https://blog.aperiodicity.com
+url: https://store.tiger-lily-plants.com
 # bluesky_username: emmeowzing
-github_username:  emmeowzing
-linkedin_username: emmeowzing
+# github_username:  emmeowzing
+# linkedin_username: emmeowzing
+source: site/
 
-paginate: 10
+paginate: 5
 paginate_path: /posts/page:num/
 google_analytics: G-2PVB8KPX2Z
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-paginate
   - jekyll-feed
@@ -22,6 +24,7 @@ plugins:
   - jekyll-gist
   - jekyll-github-metadata
   - jekyll-relative-links
+
 # https://github.com/benbalter/jekyll-relative-links
 relative_links:
   enabled:     true
