@@ -68,6 +68,8 @@ GEM
       jekyll (>= 3.4, < 5.0)
       octokit (>= 4, < 7, != 4.4.0)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-relative-links (0.7.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.1.0)
@@ -134,6 +136,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-github-metadata
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-relative-links
   jekyll-titles-from-headings
   minima (~> 2.5)
