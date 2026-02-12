@@ -11,7 +11,7 @@ title:  "New post!"
 
 # Welcome
 
-{% last_modified_at %}
+{{ page.last_modified_at }}
 POST
 
 mkdir -p images/"$(date +%F)"
