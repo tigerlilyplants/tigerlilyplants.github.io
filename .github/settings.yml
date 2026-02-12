@@ -1,8 +1,8 @@
 _extends: .github
 
 repository:
-  name: emmeowzing.github.io
-  description: Blog
+  name: tigerlilyobservatory.github.io
+  description: Tiger Lily Plants blog
   homepage: https://blog.aperiodicity.com
 
   # A comma-separated list of topics to set on the repository

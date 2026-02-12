@@ -22,11 +22,7 @@ plugins:
   - jekyll-gist
   - jekyll-github-metadata
   - jekyll-relative-links
-  - jekyll-last-modified-at
 # https://github.com/benbalter/jekyll-relative-links
 relative_links:
   enabled:     true
   collections: true
-# https://github.com/gjtorikian/jekyll-last-modified-at
-last-modified-at:
-  date-format: '%d-%b-%y'
