@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About
+title: Store
 permalink: https://etsy.com/shop/TigerLilyPlants
 ---
