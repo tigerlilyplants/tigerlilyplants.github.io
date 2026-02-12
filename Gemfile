@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # We're using jekyll.
-gem "jekyll", "~> 4.4.1"
+gem "jekyll", "~> 4.4"
 
 # Theme
 gem "minima", "~> 2.5"
