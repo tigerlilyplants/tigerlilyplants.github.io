@@ -23,3 +23,4 @@ gem 'jekyll-paginate'
 gem 'jekyll-bluesky'
 # Redirect /store -> etsy
 gem 'jekyll-redirect-from'
+gem 'kramdown-parser-gfm'
