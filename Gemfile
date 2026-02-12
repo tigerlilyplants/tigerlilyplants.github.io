@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-gem "github-pages"
-
 # We're using jekyll.
 gem "jekyll", "~> 3.9.3"
 
