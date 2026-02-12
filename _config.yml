@@ -29,3 +29,8 @@ plugins:
 relative_links:
   enabled:     true
   collections: true
+
+exclude:
+  - README.md
+  - Gemfile.lock
+  - Gemfile
