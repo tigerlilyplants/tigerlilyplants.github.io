@@ -23,6 +23,15 @@
     position: relative;
 }
 
+.footer-heading {
+    // Add site logo.
+    padding-left: 60px; /* make room for image */
+    background-image: url("/images/favicons/web-app-manifest-192x192.png");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
 a, .post-link {
   color: #c17d56;
 }
