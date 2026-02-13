@@ -56,11 +56,15 @@ a:active, .post-link {
     padding: 24px 48px;
 }
 
-.site-nav .page-link:hover,
-.site-nav .trigger > a:hover {
+.site-nav .page-link,
+.site-nav .trigger > a {
     padding: 8px 16px;
     border-radius: 8px;
+    transition: background 0.2s ease;
+}
 
+.site-nav .page-link:hover,
+.site-nav .trigger > a:hover {
     background: radial-gradient(
         ellipse at center,
         rgba(255, 255, 255, 0.95) 0%,
@@ -68,8 +72,6 @@ a:active, .post-link {
         rgba(255, 255, 255, 0.4) 70%,
         rgba(255, 255, 255, 0) 100%
     );
-
-    transition: all 0.2s ease;
 }
 
 .site-title {
