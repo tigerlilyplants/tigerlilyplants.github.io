@@ -23,21 +23,21 @@
     position: relative;
 }
 
-a:link {
+a, .post-link {
   color: #c17d56;
 }
 /* visited link */
-a:visited {
+a:visited, .post-link {
   color: #a44813;
 }
 
 /* mouse over link */
-a:hover {
+a:hover, .post-link {
   color: #a44813;
 }
 
 /* selected link */
-a:active {
+a:active, .post-link {
   color: #a44813;
 }
 
