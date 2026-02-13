@@ -5,9 +5,7 @@
     url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 
 /* Load Minima's default styles */
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+@import "minima";
 
 .site-header {
     background-image: url("/images/header.jpg");
