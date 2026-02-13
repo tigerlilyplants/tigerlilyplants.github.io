@@ -27,10 +27,6 @@
     position: relative;
 }
 
-.site-header {
-
-}
-
 .site-title {
     font-size: 26px;
     font-weight: 300;
@@ -43,7 +39,11 @@
 }
 
 .site-title:visited {
-    color: #424242;
+    color: #a9633a;
+}
+
+.site-title:hover {
+    color: #dc8553;
 }
 
 body {
