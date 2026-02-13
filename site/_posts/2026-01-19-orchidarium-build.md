@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "My latest orchidarium build"
+title: My latest orchidarium build
+categories: plants store terrariums personal-collection-update
 ---
 
 I've taken an interest in terrariums the past 6 months or so since I moved to Atlanta and set up my small business. I've built 4 bioactive tanks in that time.

@@ -1,18 +1,23 @@
 #! /usr/bin/env bash
 # Generate a new post template and associated directories.
 
-POST_LOCATION="./site/_posts/$(date +%F)-new-post.markdown"
+if [ $# -eq 1 ]; then
+    title="$1"
+else
+    title="new-post"
+fi
+
+POST_LOCATION=./site/_posts/"$(date +%F)"-"$title".md
 
 cat << POST > "$POST_LOCATION"
 ---
 layout: post
 title:  "New post!"
+categories: plants
 ---
-
-# Welcome
 
 {{ page.last_modified_at }}
 POST
 
-mkdir -p images/"$(date +%F)"
-touch images/"$(date +%F)"/.gitkeep
+mkdir -p ./site/images/"$(date +%F)"
+touch ./site/images/"$(date +%F)"/.gitkeep
