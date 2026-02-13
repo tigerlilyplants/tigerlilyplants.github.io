@@ -16,7 +16,8 @@
     line-height: 54px;
 //   letter-spacing: -1px;
     margin-bottom: 0;
-    background-image: url("/images/header.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
+                      url("/images/header.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
