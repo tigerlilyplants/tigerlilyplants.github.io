@@ -1,10 +1,12 @@
 ---
 ---
-@import "minima";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
 
 @import
-    url('https://fonts.googleapis.com/css2?family=Abel&display=swap')
-    url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+    url("https://fonts.googleapis.com/css2?family=Abel&display=swap"),
+    url("https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap");
 
 .site-header {
     background-image: url("/images/header.jpg");
