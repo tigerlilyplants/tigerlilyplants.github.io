@@ -1,6 +1,10 @@
+---
+---
+
 @import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
-@import "main";
+/* Load Minima's default styles */
+@import "minima";
 
 .site-title {
     background-image: url("/images/header.jpg");
