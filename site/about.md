@@ -20,7 +20,7 @@ permalink: /about/
   }
 </style>
 
-Welcome! I’m Emma, the owner of this queer, woman-owned shop, and I’m happiest when I’m surrounded by plants. I grow rare orchids and begonias with a lot of care (and a little obsession), and I love sharing their charm beyond my own shelves.
+Welcome! I’m Emma, the owner of *Tiger Lily Plants LLC.*, a queer, woman-owned exotic plant and terrarium store. I grow rare orchids and begonias with a lot of care (and a little obsession), and I love sharing their charm beyond my own shelves.
 
 ![myself](images/selfie.jpeg)
 *My wife, Willow, and I, on a trip to see New Mexico:)*
