@@ -41,10 +41,6 @@ a:active, .post-link {
   color: #a44813;
 }
 
-.page-link {
-
-}
-
 .site-title {
     font-size: 30px;
     font-weight: 250;
@@ -56,7 +52,7 @@ a:active, .post-link {
     color: #c17d56;
 
     // Add site logo.
-    padding-left: 20px; /* make room for image */
+    padding-left: 60px; /* make room for image */
     background-image: url("/images/favicons/web-app-manifest-192x192.png");
     background-size: 54px;
     background-repeat: no-repeat;
