@@ -1,12 +1,15 @@
 ---
 ---
+@import
+    url('https://fonts.googleapis.com/css2?family=Abel&display=swap')
+    url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 /* Load Minima's default styles */
-@import "minima";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
 
-.site-title {
+.site-header {
     background-image: url("/images/header.jpg");
     background-size: cover;
     background-position: center;
