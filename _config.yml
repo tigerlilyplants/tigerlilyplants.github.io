@@ -4,7 +4,7 @@ author: Emma Doyle
 description: |+
   Updates about my personal plant collection and store, Tiger Lily Plants
 baseurl: ""
-url: https://store.tiger-lily-plants.com
+url: https://tiger-lily-plants.com
 # bluesky_username: emmeowzing
 # github_username:  emmeowzing
 # linkedin_username: emmeowzing
@@ -28,8 +28,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-relative-links
   - jekyll-redirect-from
-
-  # - last-modified-at
 
 # https://github.com/benbalter/jekyll-relative-links
 relative_links:
