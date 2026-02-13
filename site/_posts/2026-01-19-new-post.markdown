@@ -3,8 +3,8 @@ layout: post
 title:  "My orchidarium build"
 ---
 
-# My Orchidarium Build
+I've taken an interest in terrariums the past 6 months or so, having built 4 bioactive tanks in that time.
 
-[Code](https://github.com/tigerlilyplants/orchidarium) Code
+[Code](https://github.com/tigerlilyplants/orchidarium)
 
 {{ page.last_modified_at }}

@@ -2,14 +2,14 @@ title: Tiger Lily Plants
 email:
 author: Emma Doyle
 description: |+
-  The official site of Tiger Lily Plants, a place where I post updates about my personal plant collection and store
+  The official site of Tiger Lily Plants, where I post updates about my personal plant collection and store
 baseurl: ""
 url: https://store.tiger-lily-plants.com
 # bluesky_username: emmeowzing
 # github_username:  emmeowzing
 # linkedin_username: emmeowzing
-social_links:
-  - https://etsy.com/shop/
+# social_links:
+#   - https://etsy.com/shop/TigerLilyPlants
 source: site/
 
 paginate: 5

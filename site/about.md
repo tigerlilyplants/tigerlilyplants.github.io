@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-My shop is proudly queer and woman-owned, and I’m committed to creating a welcoming space for all plant lovers. I have a deep passion for plants and love helping people experience their beauty up close. I specialize in exotic and uncommon varieties that stand out for their unique colors, shapes, and textures. Whether you’re new to plant care or already collecting, I’m happy to help you find the right plant for your space!
+Welcome! I’m the owner of this queer, woman-owned shop, and I’m happiest when I’m surrounded by plants. I grow rare orchids and begonias with a lot of care (and a little obsession), and I love sharing their charm beyond my own shelves.
 
-I'm also a proud cat mama of two boys, Luigi and Aladdin!
+I’m a lifelong builder at heart: by day I work as a software engineer, writing code and solving problems, and by night I’m a plant enthusiast and terrarium builder. I got into plants about three years ago and quickly fell in love with the mix of science, patience, and creativity they require. When I’m not coding or tending to tiny forests, I’m happily married and enjoying life with my wife. This blend of tech, love and nature is what inspires everything I grow and create. 🌿
+
+I'm also a proud cat mama of two boys, Luigi and Aladdin.
 
 ![my cats](images/cats.jpg)
+
+Happy growing!

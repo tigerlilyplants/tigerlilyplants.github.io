@@ -1,8 +1,0 @@
----
-layout: post
-title:  "New blog"
----
-
-## Welcome
-
-Hello, this is my first post ever in a Jekyll blog, so bear with me as I learn how to use this tech! :D
