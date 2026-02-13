@@ -10,11 +10,19 @@ url: https://tiger-lily-plants.com
 # linkedin_username: emmeowzing
 # social_links:
 #   - https://etsy.com/shop/TigerLilyPlants
-source: site/
+source: src/
+permalink: pretty
 
 paginate: 5
 paginate_path: /posts/page:num/
 google_analytics: G-2PVB8KPX2Z
+
+sass:
+  style: expanded
+  sass_dir: _sass/
+  sourcemap: always
+  quiet_deps: false
+  verbose: false
 
 # Build settings
 theme: minima
@@ -28,6 +36,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-relative-links
   - jekyll-redirect-from
+  - jekyll-coffeescript
 
 # https://github.com/benbalter/jekyll-relative-links
 relative_links:
