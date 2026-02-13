@@ -23,15 +23,37 @@
     position: relative;
 }
 
+a:link {
+  color: #c17d56;
+}
+/* visited link */
+a:visited {
+  color: #a44813;
+}
+
+/* mouse over link */
+a:hover {
+  color: #a44813;
+}
+
+/* selected link */
+a:active {
+  color: #a44813;
+}
+
+.page-link {
+
+}
+
 .site-title {
-    font-size: 26px;
-    font-weight: 300;
+    font-size: 30px;
+    font-weight: 250;
     line-height: 54px;
     // letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
     font-family: 'Allerta Stencil', sans-serif;
-    color: #d6b9a8;
+    color: #c17d56;
 
     // Add site logo.
     padding-left: 20px; /* make room for image */
