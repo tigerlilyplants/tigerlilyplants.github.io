@@ -82,30 +82,76 @@ a:active, .post-link {
 //     // color: white;
 // }
 
+/* Base (no shifting on hover) */
 .site-nav .page-link,
 .site-nav .trigger > a {
   padding: 8px 16px;
-  border-radius: 999px;                 /* pill feels more “petal” */
+  border-radius: 999px;
   display: inline-block;
-  transition: background 220ms ease, transform 220ms ease, box-shadow 220ms ease, color 220ms ease;
-  background: transparent;
+  position: relative;
+  overflow: hidden;
+  transition: transform 180ms ease, box-shadow 180ms ease, color 180ms ease;
 }
 
+/* Texture + overlays live in pseudo-elements so layout never changes */
+.site-nav .page-link::before,
+.site-nav .trigger > a::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  /* Real petal texture */
+  background-image: url("/images/tiger-lily-petal.jpg");
+  background-size: cover;
+  background-position: center;
+
+  opacity: 0;
+  transition: opacity 180ms ease;
+}
+
+.site-nav .page-link::after,
+.site-nav .trigger > a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  /* Petal “sheen” + subtle speckling + warm tint */
+  background:
+    radial-gradient(120% 160% at 25% 15%, rgba(255,255,255,0.55) 0%, rgba(255,255,255,0) 55%),
+    radial-gradient(150% 220% at 85% 130%, rgba(0,0,0,0.18) 0%, rgba(0,0,0,0) 60%),
+    radial-gradient(circle at 20% 55%, rgba(40,18,8,0.22) 0 1px, transparent 2px),
+    radial-gradient(circle at 42% 35%, rgba(40,18,8,0.18) 0 1px, transparent 2px),
+    radial-gradient(circle at 68% 60%, rgba(40,18,8,0.20) 0 1px, transparent 2px),
+    linear-gradient(145deg, rgba(242,178,123,0.55), rgba(193,125,86,0.55));
+
+  opacity: 0;
+  transition: opacity 180ms ease;
+}
+
+/* Keep link text above the texture layers */
+.site-nav .page-link,
+.site-nav .trigger > a {
+  z-index: 0;
+}
+.site-nav .page-link > *,
+.site-nav .trigger > a > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Hover state */
 .site-nav .page-link:hover,
 .site-nav .trigger > a:hover {
-  background:
-    radial-gradient(120% 180% at 30% 20%, rgba(255,255,255,0.70) 0%, rgba(255,255,255,0.00) 55%),
-    radial-gradient(140% 220% at 80% 120%, rgba(0,0,0,0.18) 0%, rgba(0,0,0,0.00) 60%),
-    linear-gradient(145deg, #f2b27b 0%, #e08c62 45%, #c17d56 100%);
-  box-shadow: 0 10px 22px rgba(0,0,0,0.12);
   color: rgba(255,255,255,0.95);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.14);
   transform: translateY(-1px);
 }
 
-.site-nav .page-link:active,
-.site-nav .trigger > a:active {
-  transform: translateY(0px);
-  box-shadow: 0 6px 14px rgba(0,0,0,0.10);
+.site-nav .page-link:hover::before,
+.site-nav .trigger > a:hover::before,
+.site-nav .page-link:hover::after,
+.site-nav .trigger > a:hover::after {
+  opacity: 1;
 }
 
 .site-title {
