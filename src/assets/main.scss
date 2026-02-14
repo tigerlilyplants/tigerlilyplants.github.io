@@ -61,8 +61,6 @@ a:active, .post-link {
     padding: 8px 16px;
     border-radius: 8px;
     transition: background 0.2s ease;
-    margin-top: -16px;
-    margin-bottom: -16px;
 }
 
 .site-nav .page-link:hover,
@@ -80,8 +78,9 @@ a:active, .post-link {
     font-size: 35px;
     font-weight: 250;
     line-height: 54px;
-    // letter-spacing: -1px;
-    margin-bottom: 0;
+    letter-spacing: 0.1rem;
+    margin-bottom: -16px;
+    margin-top: -16px;
     float: left;
     font-family: 'Allerta Stencil', sans-serif;
     color: #c17d56;
