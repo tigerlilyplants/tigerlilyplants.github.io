@@ -264,41 +264,45 @@ body {
 }
 
 .donation-banner {
-  background: linear-gradient(135deg, #ff4da6, #ff85c1, #ff1f8f);
-  color: #ffffff;
-  padding: 1.5rem 2rem;
-  border-radius: 16px;
+  background: linear-gradient(
+    135deg,
+    #5bcffb 0%,      /* trans blue */
+    #f5abb9 50%,     /* trans pink */
+    #ffffff 100%     /* white */
+  );
+  color: #111;
+  padding: 1.75rem 2rem;
+  border-radius: 14px;
   font-weight: 600;
   font-size: 1.1rem;
   text-align: center;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.4px;
+  border: 2px solid rgba(0, 0, 0, 0.08);
   box-shadow:
-    0 10px 25px rgba(255, 31, 143, 0.35),
-    0 0 20px rgba(255, 77, 166, 0.4);
-  border: 2px solid rgba(255, 255, 255, 0.25);
-  backdrop-filter: blur(6px);
+    0 8px 24px rgba(91, 207, 251, 0.25),
+    0 12px 40px rgba(245, 171, 185, 0.25);
   position: relative;
   overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-.donation-banner::before {
+/* subtle sharp edge overlay */
+.donation-banner::after {
   content: "";
   position: absolute;
   inset: 0;
-  background: repeating-linear-gradient(
-    45deg,
-    rgba(255,255,255,0.08),
-    rgba(255,255,255,0.08) 10px,
-    transparent 10px,
-    transparent 20px
+  background: linear-gradient(
+    120deg,
+    transparent 40%,
+    rgba(0, 0, 0, 0.05) 50%,
+    transparent 60%
   );
+  mix-blend-mode: multiply;
   pointer-events: none;
 }
 
 .donation-banner:hover {
-  transform: translateY(-3px);
+  transform: translateY(-4px);
   box-shadow:
-    0 15px 35px rgba(255, 31, 143, 0.5),
-    0 0 30px rgba(255, 77, 166, 0.6);
-  transition: all 0.3s ease;
-}
+    0
+
