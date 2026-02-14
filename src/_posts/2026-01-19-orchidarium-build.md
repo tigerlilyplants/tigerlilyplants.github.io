@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My latest orchidarium build
-tags: plants store terrariums personal-collection-update
+tags: orchids terrariums personal-collection
 excerpt_separator: <!--more-->
 ---
 
