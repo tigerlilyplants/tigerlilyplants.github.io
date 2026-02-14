@@ -21,8 +21,7 @@ post_dir = 'src/_posts/'
 draft_dir = 'src/_drafts/'
 tag_dir = 'src/tag/'
 
-filenames = glob.glob(post_dir + '*md')
-filenames = filenames + glob.glob(draft_dir + '*md')
+filenames = glob.glob(post_dir + '*md') + glob.glob(draft_dir + '*md')
 
 total_tags = []
 for filename in filenames:
@@ -32,7 +31,7 @@ for filename in filenames:
         if crawl:
             current_tags = line.strip().split(':')
             if current_tags[0] == 'tags':
-                if (current_tags[1].strip().startswith('[')):
+                if current_tags[1].strip().startswith('['):
                     clean_tag = ''.join(c for c in current_tags[1] if c not in '[]')
                     list_tags = map(str.strip, clean_tag.split(','))
                     total_tags.extend(list_tags)
@@ -48,33 +47,32 @@ for filename in filenames:
                 crawl = False
                 break
     f.close()
-total_tags = set(total_tags)
 
-old_tags = glob.glob(tag_dir + '*.md')
-for tag in old_tags:
-    os.remove(tag)
-
-if not os.path.exists(tag_dir):
-    os.makedirs(tag_dir)
+total_tags = list(set(total_tags))
+os.makedirs(tag_dir, exist_ok=True)
+changed_files = False
 
 for tag in total_tags:
-    tag_filename = tag_dir + tag.replace(' ', '_') + '.md'
+    tag_filename = f'{tag_dir}{tag.replace(' ', '_')}.md'
 
-    with open(tag_filename, 'w+') as f:
-        f.write(
-            dedent(
-                f"""
-                ---
-                layout: tagpage
-                title: "Tag: {tag}"
-                tag: {tag}
-                robots: noindex
-                ---
-                """
-            ).strip()
-        )
+    if not os.path.exists(tag_filename):
+        with open(tag_filename, 'w+') as f:
+            f.write(
+                dedent(
+                    f"""
+                    ---
+                    layout: tagpage
+                    title: "Tag: {tag}"
+                    tag: {tag}
+                    robots: noindex
+                    ---
+                    """
+                ).strip()
+            )
+        changed_files = True
 else:
-    sys.exit(1)
+    if changed_files:
+        sys.exit(1)
 
 print("Tags generated, count", total_tags.__len__())
 
