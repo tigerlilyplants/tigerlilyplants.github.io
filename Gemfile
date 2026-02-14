@@ -25,5 +25,6 @@ gem 'jekyll-titles-from-headings'
 # Redirect /store -> etsy
 gem 'jekyll-coffeescript'
 gem 'jekyll-redirect-from'
+gem 'jekyll-toc'
 gem 'kramdown-parser-gfm'
 gem 'rubocop'

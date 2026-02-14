@@ -8,9 +8,9 @@ url: https://tiger-lily-plants.com
 # bluesky_username: emmeowzing
 # github_username:  emmeowzing
 # linkedin_username: emmeowzing
-social_links:
-  - platform: etsy
-    user_url: https://www.etsy.com/shop/TigerLilyPlants
+# social_links:
+#   - platform: etsy
+#     user_url: https://www.etsy.com/shop/TigerLilyPlants
 source: src/
 permalink: pretty
 show_excerpts: true
@@ -39,6 +39,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
   - jekyll-coffeescript
+  - jekyll-toc
 
 # https://github.com/benbalter/jekyll-relative-links
 relative_links:

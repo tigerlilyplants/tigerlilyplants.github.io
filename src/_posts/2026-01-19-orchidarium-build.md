@@ -3,6 +3,7 @@ layout: post
 title: My latest orchidarium build
 tags: orchids terrariums personal-collection
 excerpt_separator: <!--more-->
+toc: true
 ---
 
 <style type="text/css" media="screen">
