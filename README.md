@@ -10,7 +10,7 @@ To generate a new blog post, run
 ./scripts/new-post.sh
 ```
 
-It will generate the proper directory structures under [`site/`](site/).
+It will generate the proper directory structures under [`src/`](src/).
 
 ## Development
 
