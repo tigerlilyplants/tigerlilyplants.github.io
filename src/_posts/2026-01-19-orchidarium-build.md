@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 <style type="text/css" media="screen">
   img {
-    width: 90%;
+    width: 80%;
     display: block;
     margin: 0 auto;
   }
