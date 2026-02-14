@@ -58,9 +58,11 @@ a:active, .post-link {
 
 .site-nav .page-link,
 .site-nav .trigger > a {
-    // padding: 8px 16px;
+    padding: 8px 16px;
     border-radius: 8px;
     transition: background 0.2s ease;
+    margin-top: -16px;
+    margin-bottom: -16px;
 }
 
 .site-nav .page-link:hover,
