@@ -68,10 +68,10 @@ a:active, .post-link {
 .site-nav .trigger > a:hover {
     background: radial-gradient(
         ellipse at center,
-        rgba(255, 255, 255, 0.95) 0%,
-        rgba(255, 255, 255, 0.85) 40%,
-        rgba(255, 255, 255, 0.4) 70%,
-        rgba(255, 255, 255, 0) 100%
+        rgba(234, 211, 198, 0.95) 0%,
+        rgba(234, 211, 198, 0.85) 40%,
+        rgba(234, 211, 198, 0.4) 70%,
+        rgba(234, 211, 198, 0) 100%
     );
 }
 
@@ -83,7 +83,7 @@ a:active, .post-link {
     margin-top: 16px;
     float: left;
     font-family: 'Allerta Stencil', sans-serif;
-    color: #c17d56;
+    color: rgba(234, 211, 198, );
 
     // Add site logo.
     padding-left: 65px; /* make room for image */
