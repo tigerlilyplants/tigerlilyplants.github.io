@@ -65,13 +65,21 @@ a:active, .post-link {
 
 .site-nav .page-link:hover,
 .site-nav .trigger > a:hover {
-    background: radial-gradient(
-        ellipse at center,
-        rgba(255, 255, 255, 0.95) 0%,
-        rgba(255, 255, 255, 0.85) 40%,
-        rgba(255, 255, 255, 0.4) 70%,
-        rgba(255, 255, 255, 0) 100%
+    // background: radial-gradient(
+    //     ellipse at center,
+    //     rgba(255, 255, 255, 0.95) 0%,
+    //     rgba(255, 255, 255, 0.85) 40%,
+    //     rgba(255, 255, 255, 0.4) 70%,
+    //     rgba(255, 255, 255, 0) 100%
+    // );
+    background: linear-gradient(
+        135deg,
+        #ffb347 0%,   /* soft golden orange */
+        #ff8c42 40%,  /* tiger orange */
+        #e76f51 75%,  /* coral */
+        #c17d56 100%  /* your brand terracotta */
     );
+    color: white;
 }
 
 .site-title {
