@@ -1,5 +1,5 @@
 ---
-title: Store
+title: Products
 # redirect_to: https://etsy.com/shop/TigerLilyPlants
 layout: page
 permalink: /store/
