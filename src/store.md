@@ -2,8 +2,7 @@
 title: Store
 # redirect_to: https://etsy.com/shop/TigerLilyPlants
 layout: page
-title: About
-permalink: /about/
+permalink: /store/
 ---
 
 <script type='text/javascript' src='https://www.etsy.com/assets/js/etsy_mini_shop.js'></script>
