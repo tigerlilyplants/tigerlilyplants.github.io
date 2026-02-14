@@ -9,8 +9,13 @@ https://github.com/qian256/qian256.github.io/blob/master/tag_generator.py
 """
 
 
+from __future__ import annotations
+
+import sys
 import glob
 import os
+
+from textwrap import dedent
 
 post_dir = 'src/_posts/'
 draft_dir = 'src/_drafts/'
@@ -54,8 +59,23 @@ if not os.path.exists(tag_dir):
 
 for tag in total_tags:
     tag_filename = tag_dir + tag.replace(' ', '_') + '.md'
-    f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
-    f.write(write_str)
-    f.close()
+
+    with open(tag_filename, 'w+') as f:
+        f.write(
+            dedent(
+                f"""
+                ---
+                layout: tagpage
+                title: "Tag: {tag}"
+                tag: {tag}
+                robots: noindex
+                ---
+                """
+            ).strip()
+        )
+else:
+    sys.exit(1)
+
 print("Tags generated, count", total_tags.__len__())
+
+sys.exit(0)
