@@ -4,7 +4,7 @@ layout: home
 
 <div class="mission-statement">
   <blockquote>
-    Tiger Lily Plants is dedicated to providing exotic orchids, begonias, and other terrarium-dwelling plants to support the unique needs of collectors and terrarium enthusiasts.
+    Exotic orchids, begonias, and other terrarium-dwelling plants for collectors and fellow terrarium enthusiasts.
   </blockquote>
   <cite class="mission-author">— Emma Doyle, Owner</cite>
 </div>
