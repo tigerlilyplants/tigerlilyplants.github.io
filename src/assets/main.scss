@@ -41,6 +41,15 @@
     background-position: left center;
 }
 
+.begonia-leaf-left-post {
+    // Add site logo.
+    padding-left: 50px; /* make room for image */
+    background-image: url("/images/begonia_leaf.png");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
 a, .post-link {
     color: #c17d56;
 }
