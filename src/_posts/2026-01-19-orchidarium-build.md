@@ -50,7 +50,7 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 - *Pleurothallis miranda*
 - *Something* - this one has already bloomed for me!
 
-![something](/images/2026-01-19/pleurothallis-miranda-bloom.jpeg)
+<img src="/images/2026-01-19/pleurothallis-miranda-bloom.jpeg" class="medium">
 
 ### Carnivorous
 
