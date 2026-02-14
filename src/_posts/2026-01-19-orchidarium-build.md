@@ -7,7 +7,7 @@ toc: true
 ---
 
 <style type="text/css" media="screen">
-  img {
+  img, image.large {
     width: 80%;
     display: block;
     margin: 0 auto;
@@ -19,6 +19,18 @@ toc: true
     font-style: italic;
     text-align: center;
     display: block;
+  }
+
+  img.medium {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  img.small {
+    width: 25%;
+    display: block;
+    margin: 0 auto;
   }
 </style>
 
@@ -33,6 +45,7 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 ### Orchids
 
+- *Dresslerella Sijmiana*
 - *Polystachya subdiphylla*
 - *Pleurothallis miranda*
 - *Something* - this one has already bloomed for me!
@@ -43,6 +56,8 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 - *Pinguicula ‘Johanna’ (P. agnata x P. debbertiana)*
 - *Pinguicula emarginata x moctezumae*
+- *Pinguicula rotundiflora*
+- *Utricularia livida*
 
 ## How it works
 
