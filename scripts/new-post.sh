@@ -13,7 +13,7 @@ cat << POST > "$POST_LOCATION"
 ---
 layout: post
 title:  "New post!"
-categories: plants
+tags: plants
 ---
 
 {{ page.last_modified_at }}
