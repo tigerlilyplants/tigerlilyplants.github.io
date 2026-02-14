@@ -19,6 +19,7 @@
   line-height: 1.6;
   border-left: none;
   max-width: 800px;
+  font-family: 'Abel', sans-serif;
   margin: 0 auto;
   font-style: italic;
 }
@@ -30,17 +31,18 @@
   margin-right: 0.1em;
 }
 
-.mission-statement cite {
+.mission-author {
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: -1.5rem;
   font-style: normal;
-  font-size: 0.95rem;
+  font-family: 'Abel', sans-serif;
+  font-size: 0.7rem;
   opacity: 0.7;
 }
 
 .site-header {
-    padding: 10px;
+    padding: 14px;
     margin-bottom: 0;
     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
                       url("/images/header.jpg");
@@ -48,7 +50,7 @@
     background-position: center;
     background-repeat: no-repeat;
     border-top: 14px solid #424242;
-    border-bottom: 2px solid #e8e8e8;
+    border-bottom: 3px solid #e8e8e8;
     min-height: 55.95px;
     position: relative;
 }
