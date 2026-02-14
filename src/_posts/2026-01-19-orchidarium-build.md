@@ -23,7 +23,7 @@ excerpt_separator: <!--more-->
 
 Over the past six months, since relocating to Atlanta and establishing my small business, I’ve developed a deep interest in building terrariums. What began as curiosity has quickly evolved into hands-on practice — in that time, I’ve designed and built four bioactive tanks. Each one has expanded my understanding of balance, micro-ecosystems, and the quiet complexity that exists within a contained natural space.
 
-![orchidarium](images/orchidarium.jpeg)
+![orchidarium](/images/orchidarium.jpeg)
 *My largest terrarium to date, with ~50-60 species of plants.*
 
 <!--more-->
