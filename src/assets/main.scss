@@ -117,7 +117,6 @@
 }
 
 .begonia-leaf-left {
-    // Add site logo.
     padding-left: 30px; /* make room for image */
     background-image: url("/images/begonia_leaf.png");
     background-size: 20px;
@@ -126,7 +125,6 @@
 }
 
 .begonia-leaf-left-post {
-    // Add site logo.
     padding-left: 35px; /* make room for image */
     background-image: url("/images/begonia_leaf.png");
     background-size: 25px;
@@ -142,6 +140,7 @@ p.progress-flag {
     background-repeat: no-repeat;
     background-position: left center;
     padding-top: 20px;
+    margin-top: 20px;
 }
 
 a, .post-link {
