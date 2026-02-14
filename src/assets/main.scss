@@ -90,28 +90,29 @@
 
 p.progress-flag {
     // Add progress pride flag svg
-    padding-left: 63px; /* make room for image */
+    padding-left: 73px; /* make room for image */
     background-image: url("/images/Intersex-inclusive_pride_flag.svg");
-    background-size: 50px;
+    background-size: 60px;
     background-repeat: no-repeat;
     background-position: left center;
+    padding-top: 20px;
 }
 
-a.post-link {
+a, .post-link {
     color: #c17d56;
 }
 /* visited link */
-a:visited.post-link {
+a:visited, .post-link {
     color: #a44813;
 }
 
 /* mouse over link */
-a:hover.post-link {
+a:hover, .post-link {
     color: #a44813;
 }
 
 /* selected link */
-a:active.post-link {
+a:active, .post-link {
     color: #a44813;
 }
 
