@@ -65,6 +65,7 @@ for tag in total_tags:
                     title: "Tag: {tag}"
                     tag: {tag}
                     robots: noindex
+                    exclude_from_nav: true
                     ---
                     """
                 ).strip()
