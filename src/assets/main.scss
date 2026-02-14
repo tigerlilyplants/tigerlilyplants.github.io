@@ -105,3 +105,8 @@ a:active, .post-link {
 body {
     font-family: 'Abel', sans-serif;
 }
+
+// increase space between posts on the home page.
+.post-list li {
+  margin-bottom: 3rem;
+}
