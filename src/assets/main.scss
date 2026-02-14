@@ -63,95 +63,15 @@ a:active, .post-link {
     transition: background 0.2s ease;
 }
 
-// .site-nav .page-link:hover,
-// .site-nav .trigger > a:hover {
-//     // background: radial-gradient(
-//     //     ellipse at center,
-//     //     rgba(255, 255, 255, 0.95) 0%,
-//     //     rgba(255, 255, 255, 0.85) 40%,
-//     //     rgba(255, 255, 255, 0.4) 70%,
-//     //     rgba(255, 255, 255, 0) 100%
-//     // );
-//     // background: linear-gradient(
-//     //     135deg,
-//     //     #ffb347 0%,   /* soft golden orange */
-//     //     #ff8c42 40%,  /* tiger orange */
-//     //     #e76f51 75%,  /* coral */
-//     //     #c17d56 100%  /* your brand terracotta */
-//     // );
-//     // color: white;
-// }
-
-/* Base (no shifting on hover) */
-.site-nav .page-link,
-.site-nav .trigger > a {
-  padding: 8px 16px;
-  border-radius: 999px;
-  display: inline-block;
-  position: relative;
-  overflow: hidden;
-  transition: transform 180ms ease, box-shadow 180ms ease, color 180ms ease;
-}
-
-/* Texture + overlays live in pseudo-elements so layout never changes */
-.site-nav .page-link::before,
-.site-nav .trigger > a::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-
-  /* Real petal texture */
-  background-image: url("/images/tiger-lily-petal.jpg");
-  background-size: cover;
-  background-position: center;
-
-  opacity: 0;
-  transition: opacity 180ms ease;
-}
-
-.site-nav .page-link::after,
-.site-nav .trigger > a::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-
-  /* Petal “sheen” + subtle speckling + warm tint */
-  background:
-    radial-gradient(120% 160% at 25% 15%, rgba(255,255,255,0.55) 0%, rgba(255,255,255,0) 55%),
-    radial-gradient(150% 220% at 85% 130%, rgba(0,0,0,0.18) 0%, rgba(0,0,0,0) 60%),
-    radial-gradient(circle at 20% 55%, rgba(40,18,8,0.22) 0 1px, transparent 2px),
-    radial-gradient(circle at 42% 35%, rgba(40,18,8,0.18) 0 1px, transparent 2px),
-    radial-gradient(circle at 68% 60%, rgba(40,18,8,0.20) 0 1px, transparent 2px),
-    linear-gradient(145deg, rgba(242,178,123,0.55), rgba(193,125,86,0.55));
-
-  opacity: 0;
-  transition: opacity 180ms ease;
-}
-
-/* Keep link text above the texture layers */
-.site-nav .page-link,
-.site-nav .trigger > a {
-  z-index: 0;
-}
-.site-nav .page-link > *,
-.site-nav .trigger > a > * {
-  position: relative;
-  z-index: 1;
-}
-
-/* Hover state */
 .site-nav .page-link:hover,
 .site-nav .trigger > a:hover {
-  color: rgba(255,255,255,0.95);
-  box-shadow: 0 10px 22px rgba(0,0,0,0.14);
-  transform: translateY(-1px);
-}
-
-.site-nav .page-link:hover::before,
-.site-nav .trigger > a:hover::before,
-.site-nav .page-link:hover::after,
-.site-nav .trigger > a:hover::after {
-  opacity: 1;
+    background: radial-gradient(
+        ellipse at center,
+        rgba(255, 255, 255, 0.95) 0%,
+        rgba(255, 255, 255, 0.85) 40%,
+        rgba(255, 255, 255, 0.4) 70%,
+        rgba(255, 255, 255, 0) 100%
+    );
 }
 
 .site-title {
