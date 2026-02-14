@@ -25,6 +25,14 @@
   line-height: 1.6;
 }
 
+.mission-statement blockquote::first-letter {
+  float: left;
+  font-size: 3rem;
+  line-height: 1;
+  padding-right: 0.05em;
+  font-weight: 600;
+}
+
 .mission-author {
   position: absolute;
   right: 0;
