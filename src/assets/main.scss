@@ -307,3 +307,18 @@ body {
     0 14px 35px rgba(91, 207, 251, 0.35),
     0 18px 50px rgba(245, 171, 185, 0.35);
 }
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;           /* space between images */
+  flex-wrap: wrap;     /* stacks on mobile */
+  margin: 2rem 0;
+}
+
+.image-row img {
+  width: 45%;
+  max-width: 500px;
+  height: auto;
+  border-radius: 8px;
+}
