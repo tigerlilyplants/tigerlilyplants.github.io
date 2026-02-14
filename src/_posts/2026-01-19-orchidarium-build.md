@@ -35,7 +35,7 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 - *Polystachya subdiphylla*
 - *Pleurothallis miranda* - this one has already bloomed for me!
 
-
+![pleurothallis miranda](/images/2026-01-19/pleurothallis-miranda-bloom.jpeg)
 
 ### Carnivorous
 
