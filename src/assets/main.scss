@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: Gustera;
-    src: url("../tigerlilyplants.github.io/src/fonts/gustera/Gustera.ttf") format('truetype');
+    src: url("{{ '/assets/fonts/gustera/Gustera.ttf' | relative_url }}") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -39,7 +39,7 @@
   line-height: 1;
 //   padding-right: -2em;
   margin-right: 0rem;
-  font-weight: 300;
+  font-weight: 250;
 }
 
 .mission-author {
