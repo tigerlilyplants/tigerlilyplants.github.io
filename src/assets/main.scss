@@ -32,6 +32,35 @@
     background-position: left center;
 }
 
+.footer-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0.2rem;
+}
+
+.footer-nav li + li {
+    margin-top: 4px;
+}
+
+.footer-nav a {
+    color: #c17d56;
+}
+/* visited link */
+a:visited, .footer-nav {
+    color: #a44813;
+}
+
+/* mouse over link */
+a:hover, .footer-nav {
+    color: #a44813;
+}
+
+/* selected link */
+a:active, .footer-nav {
+    color: #a44813;
+}
+
 .begonia-leaf-left {
     // Add site logo.
     padding-left: 30px; /* make room for image */
