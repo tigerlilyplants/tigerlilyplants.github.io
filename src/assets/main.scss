@@ -44,20 +44,29 @@
 }
 
 .footer-nav a {
+    display: inline-block; /* important for padding + hover effect */
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-weight: 600;
     color: #c17d56;
+    text-decoration: none;
+    transition: background 0.2s ease, color 0.2s ease;
 }
-/* visited link */
-a:visited, .footer-nav {
+
+/* visited */
+.footer-nav a:visited {
     color: #a44813;
 }
 
-/* mouse over link */
-a:hover, .footer-nav {
-    color: #a44813;
-}
-
-/* selected link */
-a:active, .footer-nav {
+/* hover */
+.footer-nav a:hover {
+    background: radial-gradient(
+        ellipse at center,
+        rgba(234, 211, 198, 0.95) 0%,
+        rgba(234, 211, 198, 0.85) 40%,
+        rgba(234, 211, 198, 0.4) 70%,
+        rgba(234, 211, 198, 0) 100%
+    );
     color: #a44813;
 }
 
