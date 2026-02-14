@@ -133,14 +133,22 @@
 }
 
 p.progress-flag {
-    // Add progress pride flag svg
-    padding-left: 73px; /* make room for image */
-    background-image: url("/images/Intersex-inclusive_pride_flag.svg");
-    background-size: 60px;
-    background-repeat: no-repeat;
-    background-position: left center;
-    padding-top: 20px;
-    margin-top: 20px;
+  display: flex;
+  align-items: center; /* vertically centers image + text */
+  gap: 12px;
+
+  margin-top: 20px;
+}
+
+p.progress-flag::before {
+  content: "";
+  width: 60px;
+  height: 40px; /* adjust to match flag proportions */
+  background-image: url("/images/Intersex-inclusive_pride_flag.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-shrink: 0;
 }
 
 a, .post-link {
