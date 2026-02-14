@@ -244,6 +244,25 @@ body {
   margin-right: auto;
 }
 
+.donation-banner p a {
+    color: #f0aac7;
+}
+
+/* visited link */
+.donation-banner p a:visited {
+    color: #f0aac7;
+}
+
+/* mouse over link */
+.donation-banner p a:hover {
+    color: #f09cbf;
+}
+
+/* selected link */
+.donation-banner p a:active {
+    color: #f09cbf;
+}
+
 .donation-banner {
   background: linear-gradient(135deg, #ff4da6, #ff85c1, #ff1f8f);
   color: #ffffff;
