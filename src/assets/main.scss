@@ -63,23 +63,49 @@ a:active, .post-link {
     transition: background 0.2s ease;
 }
 
+// .site-nav .page-link:hover,
+// .site-nav .trigger > a:hover {
+//     // background: radial-gradient(
+//     //     ellipse at center,
+//     //     rgba(255, 255, 255, 0.95) 0%,
+//     //     rgba(255, 255, 255, 0.85) 40%,
+//     //     rgba(255, 255, 255, 0.4) 70%,
+//     //     rgba(255, 255, 255, 0) 100%
+//     // );
+//     // background: linear-gradient(
+//     //     135deg,
+//     //     #ffb347 0%,   /* soft golden orange */
+//     //     #ff8c42 40%,  /* tiger orange */
+//     //     #e76f51 75%,  /* coral */
+//     //     #c17d56 100%  /* your brand terracotta */
+//     // );
+//     // color: white;
+// }
+
+.site-nav .page-link,
+.site-nav .trigger > a {
+  padding: 8px 16px;
+  border-radius: 999px;                 /* pill feels more “petal” */
+  display: inline-block;
+  transition: background 220ms ease, transform 220ms ease, box-shadow 220ms ease, color 220ms ease;
+  background: transparent;
+}
+
 .site-nav .page-link:hover,
 .site-nav .trigger > a:hover {
-    // background: radial-gradient(
-    //     ellipse at center,
-    //     rgba(255, 255, 255, 0.95) 0%,
-    //     rgba(255, 255, 255, 0.85) 40%,
-    //     rgba(255, 255, 255, 0.4) 70%,
-    //     rgba(255, 255, 255, 0) 100%
-    // );
-    background: linear-gradient(
-        135deg,
-        #ffb347 0%,   /* soft golden orange */
-        #ff8c42 40%,  /* tiger orange */
-        #e76f51 75%,  /* coral */
-        #c17d56 100%  /* your brand terracotta */
-    );
-    color: white;
+  background:
+    radial-gradient(120% 180% at 30% 20%, rgba(255,255,255,0.70) 0%, rgba(255,255,255,0.00) 55%),
+    radial-gradient(140% 220% at 80% 120%, rgba(0,0,0,0.18) 0%, rgba(0,0,0,0.00) 60%),
+    linear-gradient(145deg, #f2b27b 0%, #e08c62 45%, #c17d56 100%);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.12);
+  color: rgba(255,255,255,0.95);
+  transform: translateY(-1px);
+}
+
+.site-nav .page-link:active,
+.site-nav .trigger > a:active {
+  transform: translateY(0px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.10);
 }
 
 .site-title {
