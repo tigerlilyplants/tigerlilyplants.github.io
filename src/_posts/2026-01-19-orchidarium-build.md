@@ -45,19 +45,57 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 ### Orchids
 
-- *Dresslerella Sijmiana*
-- *Polystachya subdiphylla*
-- *Pleurothallis miranda*
-- *Something* - this one has already bloomed for me!
+- *Anathallis Funerea* - this one has already bloomed for me!
 
-<img src="/images/2026-01-19/pleurothallis-miranda-bloom.jpeg" class="medium">
+<img src="/images/2026-01-19/anathallis-funerea-bloom.jpeg" class="medium">
+*Anathallis Funerea*
+
+- Cattleya nobilior var. amaliae x Cattleya wittigiana
+- Dresslerella Pertusa
+- Lepanthes Calodictyon
+- Bulbophyllum Masdevalliaceum
+- Dendrobium Jenkinsii
+- Tuberolabium Kotoense (in the bark next to the log)
+- Bulbophyllum Habrotinum
+- Bulbophyllum Careyanum
+- Restrepia cuprea ancha
+- Acianthera Strupifolia
+- aerangis citrata
+- Dichaea Laxa (x2)
+- Specklinia Gracillima
+- Dracula Lotex
+- *Bulbophyllum Macrobulbum*
+- Dendrobium Vexillarius (f. red)
+- Dockrillia / Dendrobium Calamiforme
+- *Dendrobium Fuscifaucium*
+- *Dendrobium Hekouense*
+- *Lockhartia Goyazensis*
+- *Psygmorchis Pusilla*
+- *Bulbophyllum Moniliforme*
+- *Bulbophyllum Lovely Elizabeth*
+- *Dresslerella Sijmiana* - [Etsy]()
+- *Polystachya subdiphylla* -
+- *Oeniella Polystachys*
+- *Pleurothallis miranda* - Ecuagenera
+- *Pleurothallis volans* - Ecuagenera
+- *Restrepiopsis Microptera* - Ecuagenera
 
 ### Carnivorous
 
+- *Drosera Lasiantha*
+- *Drosera Nitidula*
 - *Pinguicula ‘Johanna’ (P. agnata x P. debbertiana)*
+- *Pinguicula laueana x emarginata*
 - *Pinguicula emarginata x moctezumae*
 - *Pinguicula rotundiflora*
 - *Utricularia livida*
+- *Utricularia calycifida*
+
+### Other
+
+- *Begonia 'Botanicaz 76'*
+- *Begonia 'Botanicaz 100'*
+- *Ceratostema Glans*
 
 ## How it works
 
