@@ -51,7 +51,7 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 *Anathallis Funerea*
 
 - Cattleya nobilior var. amaliae x Cattleya wittigiana
-- Dresslerella Pertusa
+- Dresslerella Pertusa - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
 - Lepanthes Calodictyon
 - Bulbophyllum Masdevalliaceum
 - Dendrobium Jenkinsii
@@ -82,20 +82,24 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 ### Carnivorous
 
-- *Drosera Lasiantha*
-- *Drosera Nitidula*
-- *Pinguicula ‘Johanna’ (P. agnata x P. debbertiana)*
-- *Pinguicula laueana x emarginata*
-- *Pinguicula emarginata x moctezumae*
-- *Pinguicula rotundiflora*
-- *Utricularia livida*
-- *Utricularia calycifida*
+- *Drosera Lasiantha* - [BogmanPlantenstein](https://www.etsy.com/shop/BogmanPlantenstein?ref=yr_purchases)
+- *Drosera Nitidula* - [BogmanPlantenstein](https://www.etsy.com/shop/BogmanPlantenstein?ref=yr_purchases)
+- *Pinguicula ‘Johanna’ (P. agnata x P. debbertiana)* - - [CarniCove](https://www.etsy.com/shop/CarniCove?ref=yr_purchases)
+- *Pinguicula Emarginata x Moctezumae* - [CarniCove](https://www.etsy.com/shop/CarniCove?ref=yr_purchases)
+- *Pinguicula Laueana x Emarginata* - - [CarniCove](https://www.etsy.com/shop/CarniCove?ref=yr_purchases)
+- *Pinguicula Rotundiflora* - [BogmanPlantenstein](https://www.etsy.com/shop/BogmanPlantenstein?ref=yr_purchases)
+- *Utricularia Livida* - [BogmanPlantenstein](https://www.etsy.com/shop/BogmanPlantenstein?ref=yr_purchases)
+- *Utricularia calycifida* - [RainbowCarnivores](https://www.etsy.com/shop/RainbowCarnivores?ref=yr_purchases)
 
 ### Other
 
 - *Begonia 'Botanicaz 76'*
 - *Begonia 'Botanicaz 100'*
 - *Ceratostema Glans*
+- *Marcgravia Rectiflora* - [NextLvlRareTropicals](https://www.etsy.com/shop/NextLvlRareTropicals?ref=yr_purchases)
+- *Marcgravia sp. Brown (Peru)* - [SunStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=yr_purchases)
+- *Marcgravia sp. Red* - [MyFrogParadise](https://www.etsy.com/shop/MyFrogParadise?ref=yr_purchases)
+- *Selaginella diffusa* - [SunStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=yr_purchases)
 
 ## How it works
 
