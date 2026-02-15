@@ -63,8 +63,8 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 - *Restrepia Echo* - Ecuagenera
 - *Aerangis Citrata* -
 - *Dichaea Laxa* - Ecuagenera (x2)
-- Specklinia Gracillima
-- Dracula Lotex
+- *Specklinia Gracillima*
+- *Dracula Lotex* - [Rainbeau Orchids](https://rainbeauorchids.com/) (this site hasn't been updated since 2014)
 - *Dendrobium Jenkinsii*
 - *Dendrobium Vexillarius (f. red)*
 - *Dendrobium Fuscifaucium*
