@@ -115,7 +115,6 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 - *Begonia Vankerckhovenii* - [MyGreenObsession](https://www.etsy.com/shop/MyGreenObsession?ref=yr_purchases)
 - *Ceratostema Glans* - [WilWestBotanicals](https://www.etsy.com/shop/wilwestbotanicals?ref=yr_purchases)
 - *Leucolepis acanthoneura (tree moss)* - [PlantPassion777](https://www.etsy.com/shop/PlantPassion777?ref=yr_purchases)
-- *Liverwort* - []
 - *Marcgravia Rectiflora* - [NextLvlRareTropicals](https://www.etsy.com/shop/NextLvlRareTropicals?ref=yr_purchases)
 - *Marcgravia sp. Brown (Peru)* - [SunStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=yr_purchases)
 - *Marcgravia sp. Red* - [MyFrogParadise](https://www.etsy.com/shop/MyFrogParadise?ref=yr_purchases)
