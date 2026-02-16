@@ -65,12 +65,12 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 - *Dichaea Laxa* - Ecuagenera (x2)
 - *Specklinia Gracillima*
 - *Dracula Lotex* - [Rainbeau Orchids](https://rainbeauorchids.com/) (this site hasn't been updated since 2014)
-- *Dendrobium Jenkinsii*
+- *Dendrobium Jenkinsii* - [MoonlightMileOrchids](https://www.etsy.com/shop/MoonlightMileOrchids?ref=yr_purchases)
 - *Dendrobium Vexillarius (f. red)*
 - *Dendrobium Fuscifaucium*
 - *Dendrobium Hekouense*
 - *Dockrillia Calamiforme*
-- *Lepanthes Calodictyon* - [store]() - this one has been blooming continuously since it arrived.
+- *Lepanthes Calodictyon* - [MoonlightMileOrchids](https://www.etsy.com/shop/MoonlightMileOrchids?ref=yr_purchases) - this one has been blooming continuously since it arrived.
 
 <img src="/images/2026-01-19/lepanthes-calodictyon-bloom.jpeg" class="medium">
 *Lepanthes Calodictyon, continuously blooming in my terrarium and growing 3 new leaves!*
