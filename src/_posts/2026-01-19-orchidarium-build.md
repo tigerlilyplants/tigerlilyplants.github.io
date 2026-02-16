@@ -46,6 +46,7 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 ### Orchids
 
 - Acianthera Strupifolia - Ecuagenera - this is one of my favorites since spotting it at the Atlanta Botanical Gardens. I already have new roots and leaves growing on this one:)
+- *Aerangis Citrata* -
 - *Anathallis Funerea* - Ecuagenera - this one has already bloomed for me!
 
 <img src="/images/2026-01-19/anathallis-funerea-bloom.jpeg" class="medium">
@@ -53,35 +54,34 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 - *Bulbophyllum Careyanum*
 - *Bulbophyllum Habrotinum*
-- *Bulbophyllum Lovely Elizabeth*
-- *Bulbophyllum Macrobulbum*
+- *Bulbophyllum Lovely Elizabeth* - bought at auction, [*Atlanta Orchid Society (AOS)*](https://www.atlantaorchidsociety.org/)
+- *Bulbophyllum Macrobulbum* - [Rainbeau Orchids](https://rainbeauorchids.com/) (this site hasn't been updated since 2014)
 - *Bulbophyllum Masdevalliaceum*
 - *Bulbophyllum Moniliforme* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
 - *Bulbophyllum Odoratissimum* - [LanlyOrchids](https://www.etsy.com/listing/4433463051/bulbophyllum-odoratissimum-miniature?ref=yr_purchases)
 - *Bulbophyllum Ovatum* - [FloraEpiphytica](https://www.etsy.com/shop/FloraEpiphytica?ref=yr_purchases)
 - *Cattleya Nobilior var. Amaliae x Cattleya Wittigiana*
 - *Cleisostoma arietinum* - [LanlyOrchids](https://www.etsy.com/listing/4381692055/cleisostoma-arietinum-rare-blooming-size?ref=yr_purchases)
-- *Tuberolabium Kotoense*
-- *Restrepia Cuprea Ancha* - Ecuagenera
-- *Restrepia Echo* - Ecuagenera
-- *Aerangis Citrata* -
-- *Dichaea Laxa* - Ecuagenera (x2)
-- *Specklinia Gracillima*
-- *Dracula Lotex* - [Rainbeau Orchids](https://rainbeauorchids.com/) (this site hasn't been updated since 2014)
 - *Dendrobium Jenkinsii* - [MoonlightMileOrchids](https://www.etsy.com/shop/MoonlightMileOrchids?ref=yr_purchases)
 - *Dendrobium Vexillarius (f. red)*
 - *Dendrobium Fuscifaucium*
 - *Dendrobium Hekouense*
+- *Dichaea Laxa* - Ecuagenera (x2)
 - *Dockrillia Calamiforme*
+- *Dracula Lotex* - [Rainbeau Orchids](https://rainbeauorchids.com/)
+- *Dresslerella Pertusa* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
+- *Dresslerella Sijmiana* - Ecuagenera
 - *Lepanthes Calodictyon* - [MoonlightMileOrchids](https://www.etsy.com/shop/MoonlightMileOrchids?ref=yr_purchases) - this one has been blooming continuously since it arrived.
 
 <img src="/images/2026-01-19/lepanthes-calodictyon-bloom.jpeg" class="medium">
 *Lepanthes Calodictyon, continuously blooming in my terrarium and growing 3 new leaves!*
 
+- *Restrepia Cuprea Ancha* - Ecuagenera
+- *Restrepia Echo* - Ecuagenera
+- *Specklinia Gracillima*
+- *Tuberolabium Kotoense*
 - *Lockhartia Goyazensis* - [LouisianaOrchid](https://www.etsy.com/shop/LouisianaOrchid24?ref=yr_purchases)
 - *Psygmorchis Pusilla*
-- *Dresslerella Pertusa* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
-- *Dresslerella Sijmiana* - Ecuagenera
 - *Polystachya subdiphylla* -
 - *Oeniella Polystachys*
 - *Pleurothallis miranda* - Ecuagenera
@@ -114,15 +114,15 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 - *Begonia Pearcei* - [JurassicJohn](https://www.etsy.com/shop/JurassicJohn?ref=yr_purchases)
 - *Begonia Vankerckhovenii* - [MyGreenObsession](https://www.etsy.com/shop/MyGreenObsession?ref=yr_purchases)
 - *Ceratostema Glans* - [WilWestBotanicals](https://www.etsy.com/shop/wilwestbotanicals?ref=yr_purchases)
+- *Hypnum Imponens* (moss) - I should probably invest in other types of moss:)
 - *Leucolepis acanthoneura (tree moss)* - [PlantPassion777](https://www.etsy.com/shop/PlantPassion777?ref=yr_purchases)
 - *Marcgravia Rectiflora* - [NextLvlRareTropicals](https://www.etsy.com/shop/NextLvlRareTropicals?ref=yr_purchases)
 - *Marcgravia sp. Brown (Peru)* - [SunStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=yr_purchases)
 - *Marcgravia sp. Red* - [MyFrogParadise](https://www.etsy.com/shop/MyFrogParadise?ref=yr_purchases)
 - *Microgramma vacciniifolia var. short leaf* - [SunshineStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=yr_purchases)
 - *Selaginella Diffusa* - [SunStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=yr_purchases)
-- *Selaginella Wildenowii* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
 - *Selaginella Erythropus 'Sanguinea'* - [GlassAqua](https://www.etsy.com/shop/GlassAqua?ref=yr_purchases)
-- *Hypnum Imponens* (moss) - I should probably invest in other types of moss:)
+- *Selaginella Wildenowii* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
 
 ## How it works
 
