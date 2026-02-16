@@ -45,7 +45,7 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 ### Orchids
 
-- Acianthera Strupifolia - Ecuagenera - this is one of my favorites since spotting it at the Atlanta Botanical Gardens.
+- Acianthera Strupifolia - Ecuagenera - this is one of my favorites since spotting it at the Atlanta Botanical Gardens. I already have new roots and leaves growing on this one:)
 - *Anathallis Funerea* - Ecuagenera - this one has already bloomed for me!
 
 <img src="/images/2026-01-19/anathallis-funerea-bloom.jpeg" class="medium">
@@ -53,12 +53,15 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 - *Bulbophyllum Careyanum*
 - *Bulbophyllum Habrotinum*
+- *Bulbophyllum Lovely Elizabeth*
 - *Bulbophyllum Macrobulbum*
 - *Bulbophyllum Masdevalliaceum*
-- *Bulbophyllum Moniliforme*
-- *Bulbophyllum Lovely Elizabeth*
-- *Cattleya nobilior var. amaliae x Cattleya wittigiana*
-- Tuberolabium Kotoense
+- *Bulbophyllum Moniliforme* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
+- *Bulbophyllum Odoratissimum* - [LanlyOrchids](https://www.etsy.com/listing/4433463051/bulbophyllum-odoratissimum-miniature?ref=yr_purchases)
+- *Bulbophyllum Ovatum* - [FloraEpiphytica](https://www.etsy.com/shop/FloraEpiphytica?ref=yr_purchases)
+- *Cattleya Nobilior var. Amaliae x Cattleya Wittigiana*
+- *Cleisostoma arietinum* - [LanlyOrchids](https://www.etsy.com/listing/4381692055/cleisostoma-arietinum-rare-blooming-size?ref=yr_purchases)
+- *Tuberolabium Kotoense*
 - *Restrepia Cuprea Ancha* - Ecuagenera
 - *Restrepia Echo* - Ecuagenera
 - *Aerangis Citrata* -
@@ -75,7 +78,7 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 <img src="/images/2026-01-19/lepanthes-calodictyon-bloom.jpeg" class="medium">
 *Lepanthes Calodictyon, continuously blooming in my terrarium and growing 3 new leaves!*
 
-- *Lockhartia Goyazensis*
+- *Lockhartia Goyazensis* - [LouisianaOrchid](https://www.etsy.com/shop/LouisianaOrchid24?ref=yr_purchases)
 - *Psygmorchis Pusilla*
 - *Dresslerella Pertusa* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
 - *Dresslerella Sijmiana* - Ecuagenera
@@ -98,10 +101,21 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 ### Other
 
+- *Antrophyum (species unknown)* - [SunshineStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=shop-header-name&listing_id=1064518759&from_page=listing)
 - *Begonia '36 / 'moonlight'* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
+- *Begonia '56* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
 - *Begonia '76* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
 - *Begonia '100* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
+- *Begonia '111* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
+- *Begonia '222* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
+- *Begonia Bipinnatifida* - [SunshineGreens](https://www.etsy.com/shop/SunshineGreens?ref=yr_purchases)
+- *Begonia Chlorosticta sp. Green* - [DingPlants](https://www.etsy.com/shop/DingPlants?ref=yr_purchases)
+- *Begonia Pteridiformis* - [SproutedSiren](https://www.etsy.com/shop/SproutedSiren?ref=yr_purchases)
+- *Begonia Pearcei* - [JurassicJohn](https://www.etsy.com/shop/JurassicJohn?ref=yr_purchases)
+- *Begonia Vankerckhovenii* - [MyGreenObsession](https://www.etsy.com/shop/MyGreenObsession?ref=yr_purchases)
 - *Ceratostema Glans* - [WilWestBotanicals](https://www.etsy.com/shop/wilwestbotanicals?ref=yr_purchases)
+- *Leucolepis acanthoneura (tree moss)* - [PlantPassion777](https://www.etsy.com/shop/PlantPassion777?ref=yr_purchases)
+- *Liverwort* - []
 - *Marcgravia Rectiflora* - [NextLvlRareTropicals](https://www.etsy.com/shop/NextLvlRareTropicals?ref=yr_purchases)
 - *Marcgravia sp. Brown (Peru)* - [SunStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=yr_purchases)
 - *Marcgravia sp. Red* - [MyFrogParadise](https://www.etsy.com/shop/MyFrogParadise?ref=yr_purchases)
