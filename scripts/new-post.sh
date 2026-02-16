@@ -7,17 +7,17 @@ else
     title="new-post"
 fi
 
-POST_LOCATION=./site/_posts/"$(date +%F)"-"$title".md
+POST_LOCATION=./src/_posts/"$(date +%F)"-"$title".md
 
 cat << POST > "$POST_LOCATION"
 ---
 layout: post
-title:  "New post!"
+title:  "$title"
 tags: plants
 ---
 
 {{ page.last_modified_at }}
 POST
 
-mkdir -p ./site/images/"$(date +%F)"
-touch ./site/images/"$(date +%F)"/.gitkeep
+mkdir -p ./src/images/"$(date +%F)"
+touch ./src/images/"$(date +%F)"/.gitkeep

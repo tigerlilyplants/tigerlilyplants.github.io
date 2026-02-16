@@ -37,7 +37,7 @@ toc: true
 Over the past six months, since relocating to Atlanta and establishing my small business, I’ve developed a deep interest in building terrariums. What began as curiosity has quickly evolved into hands-on practice — in that time, I’ve designed and built four bioactive tanks. Each one has expanded my understanding of balance, micro-ecosystems, and the quiet complexity that exists within a contained natural space.
 
 ![orchidarium](/images/orchidarium.jpeg)
-*My largest terrarium to date, with ~50-60 species of plants.*
+*My largest terrarium to date, with >60 species of plants.*
 
 <!--more-->
 
@@ -76,17 +76,17 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 <img src="/images/2026-01-19/lepanthes-calodictyon-bloom.jpeg" class="medium">
 *Lepanthes Calodictyon, continuously blooming in my terrarium and growing 3 new leaves!*
 
-- *Restrepia Cuprea Ancha* - Ecuagenera
-- *Restrepia Echo* - Ecuagenera
-- *Specklinia Gracillima*
-- *Tuberolabium Kotoense*
 - *Lockhartia Goyazensis* - [LouisianaOrchid](https://www.etsy.com/shop/LouisianaOrchid24?ref=yr_purchases)
-- *Psygmorchis Pusilla*
-- *Polystachya subdiphylla* -
 - *Oeniella Polystachys*
+- *Psygmorchis Pusilla* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
+- *Polystachya subdiphylla* -
 - *Pleurothallis miranda* - Ecuagenera
 - *Pleurothallis volans* - Ecuagenera
+- *Restrepia Cuprea Ancha* - Ecuagenera
+- *Restrepia Echo* - Ecuagenera
 - *Restrepiopsis Microptera* - Ecuagenera
+- *Specklinia Gracillima*
+- *Tuberolabium Kotoense*
 
 ### Carnivorous
 
