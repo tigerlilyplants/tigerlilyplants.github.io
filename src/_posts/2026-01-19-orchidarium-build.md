@@ -45,7 +45,8 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 ### Orchids
 
-- Acianthera Strupifolia - Ecuagenera - this is one of my favorites since spotting it at the Atlanta Botanical Gardens. I already have new roots and leaves growing on this one:)
+- *Acianthera Strupifolia* - Ecuagenera - this is one of my favorites since spotting it at the Atlanta Botanical Gardens. I already have new roots and leaves growing on this one:)
+- *Acianthera teres* - Ecuagenera
 - *Aerangis Citrata* -
 - *Anathallis Funerea* - Ecuagenera - this one has already bloomed for me!
 
@@ -85,7 +86,10 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 - *Restrepia Cuprea Ancha* - Ecuagenera
 - *Restrepia Echo* - Ecuagenera
 - *Restrepiopsis Microptera* - Ecuagenera
+- *Specklinia Dressleri* - Ecuagenera
 - *Specklinia Gracillima*
+- *Trisetella regia* - Ecuagenera
+- *Trisetella didyma* - Ecuagenera
 - *Tuberolabium Kotoense*
 
 ### Carnivorous
