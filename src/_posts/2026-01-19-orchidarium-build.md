@@ -47,28 +47,28 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 - *Acianthera Strupifolia* - Ecuagenera - this is one of my favorites since spotting it at the Atlanta Botanical Gardens. I already have new roots and leaves growing on this one:)
 - *Acianthera teres* - Ecuagenera
-- *Aerangis Citrata* -
+- *Aerangis Citrata* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
 - *Anathallis Funerea* - Ecuagenera - this one has already bloomed for me!
 
 <img src="/images/2026-01-19/anathallis-funerea-bloom.jpeg" class="medium">
 *Anathallis Funerea*
 
-- *Bulbophyllum Careyanum*
-- *Bulbophyllum Habrotinum*
+- *Bulbophyllum Careyanum* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
+- *Bulbophyllum Habrotinum* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
 - *Bulbophyllum Lovely Elizabeth* - bought at auction, [*Atlanta Orchid Society (AOS)*](https://www.atlantaorchidsociety.org/)
 - *Bulbophyllum Macrobulbum* - [Rainbeau Orchids](https://rainbeauorchids.com/) (this site hasn't been updated since 2014)
-- *Bulbophyllum Masdevalliaceum*
+- *Bulbophyllum Masdevalliaceum* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
 - *Bulbophyllum Moniliforme* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
 - *Bulbophyllum Odoratissimum* - [LanlyOrchids](https://www.etsy.com/listing/4433463051/bulbophyllum-odoratissimum-miniature?ref=yr_purchases)
 - *Bulbophyllum Ovatum* - [FloraEpiphytica](https://www.etsy.com/shop/FloraEpiphytica?ref=yr_purchases)
-- *Cattleya Nobilior var. Amaliae x Cattleya Wittigiana*
+- *Cattleya Nobilior var. Amaliae x Cattleya Wittigiana* - bought at auction, [*Atlanta Orchid Society (AOS)*](https://www.atlantaorchidsociety.org/)
 - *Cleisostoma arietinum* - [LanlyOrchids](https://www.etsy.com/listing/4381692055/cleisostoma-arietinum-rare-blooming-size?ref=yr_purchases)
 - *Dendrobium Jenkinsii* - [MoonlightMileOrchids](https://www.etsy.com/shop/MoonlightMileOrchids?ref=yr_purchases)
-- *Dendrobium Vexillarius (f. red)*
-- *Dendrobium Fuscifaucium*
-- *Dendrobium Hekouense*
+- *Dendrobium Vexillarius (f. red)* - Ecuagenera
+- *Dendrobium Fuscifaucium* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
+- *Dendrobium Hekouense* - Ecuagenera
 - *Dichaea Laxa* - Ecuagenera (x2)
-- *Dockrillia Calamiforme*
+- *Dockrillia Calamiforme* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
 - *Dracula Lotex* - [Rainbeau Orchids](https://rainbeauorchids.com/)
 - *Dresslerella Pertusa* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
 - *Dresslerella Sijmiana* - Ecuagenera
@@ -78,16 +78,16 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 *Lepanthes Calodictyon, continuously blooming in my terrarium and growing 3 new leaves!*
 
 - *Lockhartia Goyazensis* - [LouisianaOrchid](https://www.etsy.com/shop/LouisianaOrchid24?ref=yr_purchases)
-- *Oeniella Polystachys*
+- *Oeniella Polystachys* - Unknown
 - *Psygmorchis Pusilla* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
-- *Polystachya subdiphylla* -
+- *Polystachya subdiphylla* - Unknown
 - *Pleurothallis miranda* - Ecuagenera
 - *Pleurothallis volans* - Ecuagenera
 - *Restrepia Cuprea Ancha* - Ecuagenera
 - *Restrepia Echo* - Ecuagenera
 - *Restrepiopsis Microptera* - Ecuagenera
 - *Specklinia Dressleri* - Ecuagenera
-- *Specklinia Gracillima*
+- *Specklinia Gracillima* - pretty sure I bought this at auction, [*Atlanta Orchid Society (AOS)*](https://www.atlantaorchidsociety.org/)
 - *Trisetella regia* - Ecuagenera
 - *Trisetella didyma* - Ecuagenera
 - *Tuberolabium Kotoense*
