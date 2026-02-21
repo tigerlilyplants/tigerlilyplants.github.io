@@ -4,6 +4,8 @@ title:  "Winter bloomers in my collection"
 tags: plants
 ---
 
+<script type="text/javascript" src="/assets/js/lazy.js"></script>
+
 <div class="slideshow" data-baseurl="{{ site.baseurl }}/images/">
   <button class="slide-nav prev" type="button" aria-label="Previous image">‹</button>
 
