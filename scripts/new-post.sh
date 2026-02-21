@@ -7,7 +7,7 @@ else
     title="new-post"
 fi
 
-POST_LOCATION=./src/_posts/"$(date +%F)"-"$title".md
+POST_LOCATION=./src/_drafts/"$(date +%F)"-"$title".md
 
 cat << POST > "$POST_LOCATION"
 ---
