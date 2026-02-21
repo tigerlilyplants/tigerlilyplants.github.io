@@ -8,7 +8,7 @@ tags: plants
   <button class="slide-nav prev" type="button" aria-label="Previous image">‹</button>
 
   <ul class="slides">
-    {% loop_directory directory:images/2026-02-16 iterator:image filter:*.jpeg sort:descending %}
+    {% loop_directory directory:2026-02-16 iterator:image filter:*.jpeg sort:descending %}
     <li class="slide is-active">
       <figure>
         <img data-src="{{ image }}" alt="{{ image | remove_last: ".jpeg" | replace "-" " " }}">

@@ -7,7 +7,7 @@ else
     title="new-post"
 fi
 
-POST_LOCATION=./src/_drafts/"$(date +%F)"-"$title".md
+POST_LOCATION=./src/_drafts/"$(date +%F)"-"$(printf "%s" "${title,,}" | sed "s@ @_@g")".md
 
 cat << POST > "$POST_LOCATION"
 ---
@@ -15,6 +15,8 @@ layout: post
 title:  "$title"
 tags: plants
 ---
+
+<h3>$title</h3>
 
 {{ page.last_modified_at }}
 POST
