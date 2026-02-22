@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FAQ
-permalink: /faq/
+title: Contact
+permalink: /contact/
 nav_exclude: true
 ---
 
@@ -21,4 +21,4 @@ nav_exclude: true
   }
 </style>
 
-<h3>Contact Me</h3>
+<h3>Contact Tiger Lily Plants, LLC.</h3>
