@@ -342,3 +342,46 @@ body {
   padding-left: 10px;
   margin-top: -3px;
 }
+
+
+// Contact
+
+
+.contact-box {
+	display: flex;
+  flex-direction: column;
+	max-width: 550px;
+	margin: 0 auto;
+}
+
+.contact-box form {
+  width: 100%;
+}
+
+.contact-box p {
+  margin: 0;
+}
+
+.contact-box .contact-form,
+.contact-box .contact-details {
+  margin: 0 30px;
+}
+
+.contact-box .contact-details {
+  font-size: 0.9em;
+}
+
+.contact-form label {
+  margin-top: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  margin-top: 5px;
+}
+
+// .contact-form input,
+// .contact-form textarea {
+//   width: 20%;
+//   box-sizing: border-box;
+// }

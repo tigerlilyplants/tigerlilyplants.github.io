@@ -24,7 +24,7 @@
       <div class="footer-col footer-col-1">
         <ul class="footer-nav">
           {%- for page in site.pages -%}
-            {%- if page.title and page.title != "Store" and page.title != "Contact" and page.title != "FAQ" and page.layout == "page" -%}
+            {%- if page.title and page.title != "Store" and page.title != "Contact" and page.title != "FAQ" and page.title != "Success" and page.layout == "page" -%}
               <li>
                 <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
               </li>
