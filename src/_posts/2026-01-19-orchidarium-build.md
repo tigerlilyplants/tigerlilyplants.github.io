@@ -34,14 +34,24 @@ toc: true
   }
 </style>
 
-Over the past six months, since relocating to Atlanta and establishing my small business, I’ve developed a deep interest in building terrariums. What began as curiosity has quickly evolved into hands-on practice — in that time, I’ve designed and built four bioactive tanks. Each one has expanded my understanding of balance, micro-ecosystems, and the quiet complexity that exists within a contained natural space.
+Over the past six months, since relocating to Atlanta and establishing my small business, I’ve developed an interest in building terrariums. What began as curiosity and hesitant (probably autistic) fixation has quickly evolved into hands-on practice. I’ve since designed and built four bioactive tanks, with the intent to build many more.
 
 ![orchidarium](/images/orchidarium.jpeg)
-*My largest terrarium to date, with >60 species of plants.*
+*My largest terrarium to date, with >60 species of plants, ranging from carnivorous to begonias and, of course, orchids!*
 
 <!--more-->
 
+Terrariums are cool because you get to merge your understanding of plants and how they grow with mechanics and logic. As a devops engineer, I also like to automate the boring things.
+
+I liken terrariums such as mine to building an ecosystem and attempting to identify the control factors that matter: is there enough air movement so your plants don't rot? Enough light that the plants on the bottom of the tank are happy, but the orchids on the log don't burn? Is water reaching all the places in the tank that matter? Are you monitoring the nitrate level to make sure you're not over-fertilizing?
+
+And then there's a whole slew of mechanical problems you can solve.
+
+In previous builds, I used a small number of misters per pump. This build has 7, and I noticed that there was a lot of water hammer in the lines. I added an accumulator tank and tuned the pressure until the misting pump became quiet throughout most of its misting cycle to solve this. It has since been, for the most part, fully automated with the exception of a weekly water check / swap.
+
 ## Plant species
+
+The following species list tracks everything I intentionally placed in this terrarium.
 
 ### Orchids
 
@@ -130,9 +140,18 @@ Over the past six months, since relocating to Atlanta and establishing my small 
 
 ## How it works
 
+This terrarium is a pot-style terrarium. That means the water sprays in the top and collects in the bottom. I've reused a hexagonal fish tank for this project because I knew the bottom would be sealed.
+
+Then there's the mechanical setup. Far from the prettiest, but I also learned a lot while tuning all of the loops over the course of months to ensure that the plants inside had what they needed.
+
+![Back of the terrarium](/images/2026-01-19/orchidarium-back.png)
+*Hardware setup that keeps water moving around the tank. I wanted this setup to be portable, so I hung everything off the side of the tank.*
+
+Here also is a flow diagram, outlining the ways in which I ensure water stays moving around the tank. There are 3 pumps for this project, two diaphragm pumps and one, simple, fountain pump. One diaphram pump of course runs the misters, one empties the bottom of the tank, and I've submerged the fountain pump in the bottom to raise water up to the top of the logs to keep the orchids' roots moist.
+
 ![Pot terrarium control loops](/images/2026-01-19/orchidarium-controls.png)
 *A diagram outlining the ways you can move water around a terrarium.*
 
-[Code](https://github.com/tigerlilyplants/orchidarium)
+I am actively working on a monitoring solution for this terrarium. You can check out the code on [GitHub](https://github.com/tigerlilyplants/orchidarium).
 
 {{ page.last_modified_at }}
