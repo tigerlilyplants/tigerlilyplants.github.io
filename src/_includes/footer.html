@@ -23,7 +23,7 @@
 
       <div class="footer-col footer-col-1">
         <ul class="footer-nav">
-          {%- assign sorted_pages = site.pages | sort:"order" -%}
+          {%- assign sorted_pages = site.pages: | sort:"order" -%}
           {%- for page in sorted_pages -%}
             {%- if page.title and page.title != "Store" and page.layout == "page" -%}
               <li>
