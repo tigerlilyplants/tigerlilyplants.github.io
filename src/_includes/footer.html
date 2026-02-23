@@ -23,16 +23,15 @@
 
       <div class="footer-col footer-col-1">
         <ul class="footer-nav">
-          {%- assign sorted_pages = site.pages: | sort:"order" -%}
-          {%- for page in sorted_pages -%}
-            {%- if page.title and page.title != "Store" and page.layout == "page" -%}
+          {%- for page in site.pages -%}
+            {%- if page.title and page.title != "Store" and page.title != "Contact" and page.title != "FAQ" and page.layout == "page" -%}
               <li>
                 <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
               </li>
             {%- endif -%}
           {%- endfor -%}
           <li>
-            <a href="https://etsy.com/shop/TigerLilyPlants">Etsy</a>
+            <a href="https://etsy.com/shop/TigerLilyPlants">Etsy<img class="etsy-footer-logo" src="/images/etsy-logo.png"/></a>
           </li>
         </ul>
       </div>
@@ -45,9 +44,10 @@
         <p><em>{{- site.description | escape -}}</em></p>
         <!-- <p>About the logo</p> -->
         <p class="progress-flag">Thank you for supporting queer and woman-owned businesses.</p>
+        <p><a href="/contact/">Contact</a>&nbsp;&nbsp;&nbsp;<a href="/FAQ/">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Est. 2025</p>
       </div>
     </div>
-
+>
   </div>
 
 </footer>
