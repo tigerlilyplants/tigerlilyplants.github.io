@@ -23,7 +23,8 @@ nav_exclude: true
 
 <script type="text/javascript">
 	function contactFormSubmit() {
-		return true;
+		console.info("The form was submitted: ", response.status);
+		window.location.href("https://tiger-lily-plants.com/contact-success/");
 		const form = document.getElementById("contact-form");
 
 		// Convert the form data to a URL-encoded string.
@@ -44,7 +45,7 @@ nav_exclude: true
 		).then(
 			() => {
 				console.info("The form was submitted: ", response.status);
-				window.location.replace("https://tiger-lily-plants.com/contact-success/");
+				window.location.href("https://tiger-lily-plants.com/contact-success/");
 			}
 		)
 
