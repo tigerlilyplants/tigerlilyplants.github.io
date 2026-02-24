@@ -385,3 +385,127 @@ body {
 //   width: 20%;
 //   box-sizing: border-box;
 // }
+
+.contact-box {
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.contact-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;   /* Two-column layout */
+    gap: 16px 24px;
+    // font-family: Arial, sans-serif;
+}
+
+/* Make full-width fields span both columns */
+.contact-form .full-width {
+    grid-column: 1 / -1;
+}
+
+.contact-form label {
+    display: block;
+    font-weight: 400;
+    margin-bottom: 4px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 70%;
+    // font-size: 16px;
+    padding: 8px 10px;
+    box-sizing: border-box;
+}
+
+/* Textarea: ~80 characters wide and 7 lines tall */
+#message {
+    width: 80ch;
+    max-width: 90%;   /* Prevent overflow on small screens */
+    height: 7em;
+    resize: vertical;
+}
+
+/* Submit button */
+.contact-form input[type="submit"] {
+    grid-column: 1 / -1;
+    width: fit-content;
+    padding: 10px 18px;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.button-row {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+/* Base styling */
+.button-row button {
+  appearance: none;
+  -webkit-appearance: none;
+
+  padding: 10px 22px;
+  height: 42px;
+
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  transition:
+    background-color 0.25s ease,
+    transform 0.15s ease,
+    box-shadow 0.2s ease;
+}
+
+/* Primary Submit Button */
+.button-row button[type="submit"] {
+  background-color: #c26a2e;
+  color: #ffffff;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Submit Hover */
+.button-row button[type="submit"]:hover {
+  background-color: #a95521;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+/* Submit Click */
+.button-row button[type="submit"]:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Secondary CSV Button */
+.button-row button#downloadCsvBtn {
+  background-color: #f2f2f2;
+  color: #2f2f2f;
+  border: 1px solid #d0d0d0;
+}
+
+/* CSV Hover */
+.button-row button#downloadCsvBtn:hover {
+  background-color: #e6e6e6;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+/* CSV Click */
+.button-row button#downloadCsvBtn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}

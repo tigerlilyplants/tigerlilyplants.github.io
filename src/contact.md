@@ -46,7 +46,12 @@ nav_exclude: true
 		).then(
 			() => {
 				console.info("The form was submitted: ", response.status);
-				window.location.replace("https://tiger-lily-plants.com/contact-success/");
+
+        if (window.location.origin.startsWith("http://127")) {
+            window.location.replace("http://127.0.0.1:4000/contact-success/");
+        } else {
+            window.location.replace("https://tiger-lily-plants.com/contact-success/");
+        }
 			}
 		)
 
@@ -54,32 +59,88 @@ nav_exclude: true
 	}
 </script>
 
-<div class="contact-box">
-	<form id="contact-form" onsubmit="return contactFormSubmit()" class="contact-form">
-		<label for="firstname">First</label>
-		<br/>
-		<input type="text" name="firstname" id="firstname"  />
-		<br/>
-		<label for="lastname">Last</label>
-		<br/>
-		<input type="text" name="lastname" id="lastname"  />
-		<br/>
-		<label for="email">Email</label>
-		<br/>
-		<input type="email" name="email" id="email" placeholder="contact@example.com"  />
-		<br/>
-		<label for="company">Company</label>
-		<br/>
-		<input type="text" name="company" id="company" placeholder="Example, Inc."  />
-		<br/>
-		<label for="phonenumber">Phone Number</label>
-		<br/>
-		<input type="tel" name="phonenumber" id="phonenumber" pattern="[0-9]{3}-?[0-9]{3}-?[0-9]{4}" placeholder="012-345-6789" />
-		<br/>
-		<label for="message">Message</label>
-		<br/>
-		<textarea name="message" id="message" placeholder="type your message" ></textarea>
-		<br/>
-		<input type="submit" />
-	</form>
-</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const button = document.getElementById("downloadCsvBtn");
+  const form = document.getElementById("contact-form");
+
+  if (!button || !form) return;
+
+  button.addEventListener("click", function () {
+
+    const fields = [
+      { header: "First", id: "firstname" },
+      { header: "Last", id: "lastname" },
+      { header: "Email", id: "email" },
+      { header: "Company", id: "company" },
+      { header: "Phone Number", id: "phonenumber" },
+      { header: "Message", id: "message" }
+    ];
+
+    const csvEscape = (value) => {
+      const s = String(value ?? "")
+        .replace(/\r\n/g, "\n")
+        .replace(/\r/g, "\n");
+      return `"${s.replace(/"/g, '""')}"`;
+    };
+
+    const headers = fields.map(f => csvEscape(f.header)).join(",");
+    const row = fields.map(f => {
+      const el = document.getElementById(f.id);
+      return csvEscape(el ? el.value : "");
+    }).join(",");
+
+    const csvContent = headers + "\n" + row + "\n";
+
+    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "contact-form-data.csv";
+    document.body.appendChild(a);
+    a.click();
+
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  });
+});
+</script>
+
+<form id="contact-form" class="contact-form" action="javascript:contactFormSubmit()">
+
+  <div>
+    <label for="firstname">First</label>
+    <input type="text" id="firstname" name="firstname">
+  </div>
+
+  <div>
+    <label for="lastname">Last</label>
+    <input type="text" id="lastname" name="lastname">
+  </div>
+
+  <div class="full-width">
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email">
+  </div>
+
+  <div class="full-width">
+    <label for="company">Company</label>
+    <input type="text" id="company" name="company">
+  </div>
+
+  <div class="full-width">
+    <label for="phonenumber">Phone Number</label>
+    <input type="tel" id="phonenumber" name="phonenumber">
+  </div>
+
+  <div class="full-width">
+    <label for="message">Message</label>
+    <textarea id="message" name="message"></textarea>
+  </div>
+
+  <div class="button-row full-width">
+    <button type="submit">Submit</button>
+    <button type="button" id="downloadCsvBtn">CSV</button>
+  </div>
+</form>

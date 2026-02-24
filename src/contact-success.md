@@ -23,7 +23,11 @@ function redirectCountdown() {
             clearInterval(distance);
             document.getElementById("countdown").innerHTML = "Redirecting...";
 
-            window.location.replace("https://tiger-lily-plants.com");
+            if (window.location.origin.startsWith("http://127")) {
+                window.location.replace("http://127.0.0.1:4000/");
+            } else {
+                window.location.replace("https://tiger-lily-plants.com");
+            }
     } else {
         // Output the result in an element with id="demo"
         document.getElementById("countdown").innerHTML = "Redirecting in " + distance + "s";
