@@ -23,8 +23,9 @@ nav_exclude: true
 
 <script type="text/javascript">
 	function contactFormSubmit() {
-		console.info("The form was submitted: ", response.status);
-		window.location.href("https://tiger-lily-plants.com/contact-success/");
+		// console.info("The form was submitted: ", response.status);
+		// window.location.replace("http://127.0.0.1:4000/contact-success/");
+
 		const form = document.getElementById("contact-form");
 
 		// Convert the form data to a URL-encoded string.
@@ -45,7 +46,7 @@ nav_exclude: true
 		).then(
 			() => {
 				console.info("The form was submitted: ", response.status);
-				window.location.href("https://tiger-lily-plants.com/contact-success/");
+				window.location.replace("https://tiger-lily-plants.com/contact-success/");
 			}
 		)
 
@@ -57,19 +58,19 @@ nav_exclude: true
 	<form id="contact-form" onsubmit="return contactFormSubmit()" class="contact-form">
 		<label for="firstname">First</label>
 		<br/>
-		<input type="text" name="firstname" id="firstname" required />
+		<input type="text" name="firstname" id="firstname"  />
 		<br/>
 		<label for="lastname">Last</label>
 		<br/>
-		<input type="text" name="lastname" id="lastname" required />
+		<input type="text" name="lastname" id="lastname"  />
 		<br/>
 		<label for="email">Email</label>
 		<br/>
-		<input type="email" name="email" id="email" placeholder="contact@example.com" required />
+		<input type="email" name="email" id="email" placeholder="contact@example.com"  />
 		<br/>
 		<label for="company">Company</label>
 		<br/>
-		<input type="text" name="company" id="company" placeholder="Example, Inc." required />
+		<input type="text" name="company" id="company" placeholder="Example, Inc."  />
 		<br/>
 		<label for="phonenumber">Phone Number</label>
 		<br/>
@@ -77,7 +78,7 @@ nav_exclude: true
 		<br/>
 		<label for="message">Message</label>
 		<br/>
-		<textarea name="message" id="message" placeholder="type your message" required></textarea>
+		<textarea name="message" id="message" placeholder="type your message" ></textarea>
 		<br/>
 		<input type="submit" />
 	</form>

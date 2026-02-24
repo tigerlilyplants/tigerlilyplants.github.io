@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Success
-permalink: /contact-success/
+# permalink: /contact-success/
 ---
 
 <!-- <h2></h2> -->
@@ -11,7 +11,7 @@ permalink: /contact-success/
 <p class="subtext" id="countdown"></p>
 
 <script>
-var distance = 2;
+var distance = 3;
 
 
 /**
@@ -22,6 +22,8 @@ function redirectCountdown() {
     if (distance <= 0) {
             clearInterval(distance);
             document.getElementById("countdown").innerHTML = "Redirecting...";
+
+            window.location.replace("https://tiger-lily-plants.com");
     } else {
         // Output the result in an element with id="demo"
         document.getElementById("countdown").innerHTML = "Redirecting in " + distance + "s";
@@ -35,6 +37,4 @@ redirectCountdown();
 
 // Update the count down every 1 second
 setInterval(redirectCountdown, 1000);
-
-window.location.replace("https://tiger-lily-plants.com");
 </script>
