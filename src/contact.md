@@ -33,7 +33,7 @@ nav_exclude: true
 		const params = new URLSearchParams(formData);
 
 		const response = fetch(
-			'https://formspree.io/f/xvgpzzal',
+			'https://formspree.io/f/mbdaqadz',
 			{
 				method: 'POST',
 				headers: {
@@ -111,32 +111,32 @@ document.addEventListener("DOMContentLoaded", function () {
 
   <div>
     <label for="firstname">First</label>
-    <input type="text" id="firstname" name="firstname">
+    <input type="text" id="firstname" name="firstname" required >
   </div>
 
   <div>
     <label for="lastname">Last</label>
-    <input type="text" id="lastname" name="lastname">
+    <input type="text" id="lastname" name="lastname" required >
   </div>
 
   <div class="full-width">
     <label for="email">Email</label>
-    <input type="email" id="email" name="email">
+    <input type="email" id="email" name="email" required >
   </div>
 
   <div class="full-width">
-    <label for="company">Company</label>
+    <label for="company">Company (optional)</label>
     <input type="text" id="company" name="company">
   </div>
 
   <div class="full-width">
-    <label for="phonenumber">Phone Number</label>
+    <label for="phonenumber">Phone Number (optional)</label>
     <input type="tel" id="phonenumber" name="phonenumber">
   </div>
 
   <div class="full-width">
     <label for="message">Message</label>
-    <textarea id="message" name="message"></textarea>
+    <textarea minlength=25 id="message" name="message"></textarea>
   </div>
 
   <div class="button-row full-width">
