@@ -51,7 +51,10 @@ In previous builds, I used a small number of misters per pump. This build has 7,
 
 ## How it works
 
-This terrarium is a pot-style terrarium. That means the water sprays in the top and collects in the bottom. I've reused a hexagonal fish tank for this project because I knew the bottom would be sealed.
+This terrarium is a pot-style terrarium. That means the water sprays in the top and collects in the bottom. I've reused a hexagonal fish tank for this project because I knew the bottom would be sealed. I also have a fish tank nearby to use as a reservoir and blackwater aquarium.
+
+![Pot terrarium control loops](/images/2026-01-19/blackwater.jpeg)
+*Blackwater aquarium reservoir.*
 
 Then there's the mechanical setup. Far from the prettiest, but I also learned a lot while tuning all of the loops over the course of months to ensure that the plants inside had what they needed.
 
