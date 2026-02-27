@@ -11,7 +11,7 @@ I’ve recently updated my [shop policies](/policies) to make expectations for c
 
 <h3>Shipping</h3>
 
-Shipments will now go out every Monday, Wednesday, and Friday by the end of the business day. Every order also includes an upgraded 40-hour heat pack by default, and you can purchase additional protection at your own discretion (especially during cold weather events over the winter).
+Shipments will now go out every Monday, Wednesday, and Friday by the end of the business day. Every order also includes an upgraded 40-hour heat pack by default, and you can [purchase additional 72hr heat pack](https://www.etsy.com/listing/4464005258/72-hour-heat-pack) protection at your own discretion (especially during cold weather events over the winter).
 
 To protect my collection and other customers, returns are not accepted on plants due to contamination risk.
 
