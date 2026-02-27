@@ -31,9 +31,13 @@ permalink: /policies/
 - If you’re unsure about your plant’s health, send photos and I’m happy to help with recovery support.
 - Refunds do not include shipping costs. Buyers select their shipping method and assume shipping risk.
 
-<h4>Refund & Replacement Policy</h4>
+<h3>Refund & Replacement</h3>
 
 - Standard plants: refund only (shipping cost not included).
 - Specials: refund or replacement available. If the issue is carrier-related, buyer pays replacement shipping (not the plant cost).
 - Novelties (items for which I only have one in stock): refund only.
 - Returns are not accepted due to contamination risk.
+
+<h3>Order cancellations</h3>
+
+- I accept order cancellations up to time of shipment. Submit a [contact](/contact) form or message me on Etsy.
