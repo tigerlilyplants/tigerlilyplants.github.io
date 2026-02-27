@@ -40,3 +40,5 @@ permalink: /policies/
 <h3>Order cancellations</h3>
 
 - I accept order cancellations up to time of shipment. Submit a [contact](/contact) form or message me on Etsy.
+
+**Page last updated:** 2/27/26
