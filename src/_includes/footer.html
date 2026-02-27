@@ -24,7 +24,7 @@
       <div class="footer-col footer-col-1">
         <ul class="footer-nav">
           {%- for page in site.pages -%}
-            {%- if page.title and page.title != "Store" and page.title != "Contact" and page.title != "FAQ" and page.title != "Success" and page.layout == "page" -%}
+            {%- if page.title and page.title != "Store" and page.title != "Policies" and page.title != "Contact" and page.title != "FAQ" and page.title != "Success" and page.layout == "page" -%}
               <li>
                 <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
               </li>
@@ -44,7 +44,7 @@
         <p><em>{{- site.description | escape -}}</em></p>
         <!-- <p>About the logo</p> -->
         <p class="progress-flag">Thank you for supporting queer and woman-owned businesses.</p>
-        <p><a href="/contact/">Contact</a>&nbsp;&nbsp;&nbsp;<a href="/faq/">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Est. 2025</p>
+        <p><a href="/contact/">Contact</a>&nbsp;&nbsp;&nbsp;<a href="/faq/">FAQ</a>&nbsp;&nbsp;&nbsp;<a href="/policies">Policies</a></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Est. 2025</p>
       </div>
     </div>
   </div>
