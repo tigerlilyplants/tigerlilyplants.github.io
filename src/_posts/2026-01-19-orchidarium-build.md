@@ -49,7 +49,7 @@ And then there's a whole slew of mechanical problems you can solve.
 
 ## How it works
 
-This terrarium is a pot-style terrarium. That means the water sprays in the top and collects in the bottom. I've reused a hexagonal fish tank for this project because I knew the bottom would be sealed. I also have a fish tank nearby to use as a reservoir and blackwater aquarium.
+This terrarium is a pot-style terrarium. That means the water sprays in the top and collects in the bottom. I also have a fish tank nearby to use as a reservoir and blackwater aquarium.
 
 ![Pot terrarium control loops](/images/2026-01-19/blackwater.jpeg)
 *Blackwater aquarium reservoir.*
