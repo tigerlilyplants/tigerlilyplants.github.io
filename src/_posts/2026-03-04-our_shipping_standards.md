@@ -34,7 +34,7 @@ toc: true
   }
 </style>
 
-Here at Tiger Lily Plants I strive for transparency. I want customers to know what to expect, so I'm publishing my shipping standards in lieu of that promise.
+Here at Tiger Lily Plants, I’m committed to being transparent with my customers. I want you to feel confident about what to expect when ordering, so I’ve outlined my shipping standards as part of that commitment to clarity and trust. 🌿
 
 <!--more-->
 
