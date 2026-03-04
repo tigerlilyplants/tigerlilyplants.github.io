@@ -21,4 +21,7 @@ nav_exclude: true
   }
 </style>
 
-<h3>Frequently Asked Questions</h3>
+<blockquote>
+<h4 id="question_1">Q: Do you have a live arrival guarantee?</h4>
+</blockquote>
+<p>A: Yes, we guarantee live arrival, will assist you over email if your plant hasn't </p>
