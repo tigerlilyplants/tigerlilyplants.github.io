@@ -53,7 +53,7 @@ On the exterior of every package you'll find
 
 We break down how we package individual plants based on their needs into two categories: draught-tolerant (e.g., *Paphiopedilum* or *lady slipper* orchids), and high-humidity (mini orchids, such as *Lepanthes*).
 
-Every package includes a 40hr heat pack per our [shop policies](/policies), which I nest near the plants to keep them warm throughout the duration of the shipment.
+Every package includes a 40hr heat pack in the Winter months per our [shop policies](/policies), which I nest near the plants to keep them warm throughout the duration of the shipment.
 
 <h4>Draught-tolerant</h4>
 
