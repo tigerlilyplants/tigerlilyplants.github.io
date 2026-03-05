@@ -24,4 +24,4 @@ nav_exclude: true
 <blockquote>
 <h4 id="question_1">Q: Do you have a live arrival guarantee?</h4>
 </blockquote>
-<p>A: Yes, we guarantee live arrival, will assist you over email if your plant hasn't </p>
+<p>A: Yes, we [guarantee live arrival](/policies). I'm happy to assist you over email if your plant doesn't arrive in as healthy a state as when it was packaged at our shop as well.
