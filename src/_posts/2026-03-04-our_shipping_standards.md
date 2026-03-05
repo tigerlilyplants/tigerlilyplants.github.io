@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shipping standards"
-tags: plants
+tags: store policies
 excerpt_separator: <!--more-->
 toc: true
 ---

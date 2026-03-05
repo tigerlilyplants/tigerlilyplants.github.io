@@ -84,6 +84,7 @@ The following species list tracks everything I intentionally placed in this terr
 <img src="/images/2026-01-19/anathallis-funerea-bloom.jpeg" class="medium">
 *Anathallis Funerea*
 
+- *Andinia dielsii* - Ecuagenera
 - *Bulbophyllum Careyanum* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
 - *Bulbophyllum Habrotinum* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
 - *Bulbophyllum Lovely Elizabeth* - bought at auction, [*Atlanta Orchid Society (AOS)*](https://www.atlantaorchidsociety.org/)
@@ -93,7 +94,8 @@ The following species list tracks everything I intentionally placed in this terr
 - *Bulbophyllum Odoratissimum* - [LanlyOrchids](https://www.etsy.com/listing/4433463051/bulbophyllum-odoratissimum-miniature?ref=yr_purchases)
 - *Bulbophyllum Ovatum* - [FloraEpiphytica](https://www.etsy.com/shop/FloraEpiphytica?ref=yr_purchases)
 - *Cattleya Nobilior var. Amaliae x Cattleya Wittigiana* - bought at auction, [*Atlanta Orchid Society (AOS)*](https://www.atlantaorchidsociety.org/)
-- *Cleisostoma arietinum* - [LanlyOrchids](https://www.etsy.com/listing/4381692055/cleisostoma-arietinum-rare-blooming-size?ref=yr_purchases)
+- *Ceratostema Rauhii* - Ecuagenera
+- *Cleisostoma Arietinum* - [LanlyOrchids](https://www.etsy.com/listing/4381692055/cleisostoma-arietinum-rare-blooming-size?ref=yr_purchases)
 - *Dendrobium Jenkinsii* - [MoonlightMileOrchids](https://www.etsy.com/shop/MoonlightMileOrchids?ref=yr_purchases)
 - *Dendrobium Vexillarius (f. red)* - Ecuagenera
 - *Dendrobium Fuscifaucium* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
@@ -108,10 +110,12 @@ The following species list tracks everything I intentionally placed in this terr
 <img src="/images/2026-01-19/lepanthes-calodictyon-bloom.jpeg" class="medium">
 *Lepanthes Calodictyon, continuously blooming in my terrarium and growing 3 new leaves!*
 
+- *Lepanthes telipogoniflora* - Ecuagenera
 - *Lockhartia Goyazensis* - [LouisianaOrchid](https://www.etsy.com/shop/LouisianaOrchid24?ref=yr_purchases)
 - *Oeniella Polystachys* - Unknown
 - *Psygmorchis Pusilla* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
 - *Polystachya subdiphylla* - Unknown
+- *Pleurothallis cypripedioides* - Ecuagenera
 - *Pleurothallis miranda* - Ecuagenera
 - *Pleurothallis volans* - Ecuagenera
 - *Restrepia Cuprea Ancha* - Ecuagenera
