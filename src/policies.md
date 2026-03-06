@@ -26,7 +26,7 @@ permalink: /policies/
 
 <h4>Cold months</h4>
 - A 40-hour heat pack is included in every package during the Winter months.
-- 72-hour heat packs are available for $3 each.
+- 72-hour heat packs are available for $4 each.
 
 <h3>Live Arrival Guarantee (up to 7 Days from Carrier Delivery Date)</h3>
 - Photo proof of a dead plant is required for a refund or replacement.
