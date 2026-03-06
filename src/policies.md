@@ -23,7 +23,9 @@ permalink: /policies/
 <h3>Shipping</h3>
 
 - Orders ship Monday, Wednesday, and Friday (end of day).
-- A 40-hour heat pack is included in every package.
+
+<h4>Cold months</h4>
+- A 40-hour heat pack is included in every package during the Winter months.
 - 72-hour heat packs are available for $3 each.
 
 <h3>Live Arrival Guarantee (up to 7 Days from Carrier Delivery Date)</h3>
@@ -41,4 +43,4 @@ permalink: /policies/
 
 - I accept order cancellations up to time of shipment. Submit a [contact](/contact) form or message me on Etsy.
 
-**Page last updated:** 2/27/26
+**Page last updated:** 3/6/26
