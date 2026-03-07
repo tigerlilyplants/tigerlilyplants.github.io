@@ -17,7 +17,7 @@ show_excerpts: true
 
 paginate: 5
 paginate_path: /posts/page:num/
-google_analytics: G-2PVB8KPX2Z
+# google_analytics:
 
 sass:
   style: expanded
