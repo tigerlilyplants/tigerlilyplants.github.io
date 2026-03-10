@@ -103,12 +103,16 @@ The following species list tracks everything I intentionally placed in this terr
 - *Dichaea Laxa* - Ecuagenera (x2)
 - *Dockrillia Calamiforme* - [Peach State Orchids](https://www.instagram.com/peachstateorchids/?hl=en)
 - *Dracula Lotex* - [Rainbeau Orchids](https://rainbeauorchids.com/)
-- *Dresslerella Pertusa* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases)
+- *Dresslerella Pertusa* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases) - this one is presently blooming as well:)
+
+<img src="/images/2026-01-19/dresslerella-pertusa.jpeg" class="medium">
+*Lepanthes Calodictyon, continuously blooming in my terrarium and growing 4 new leaves!*
+
 - *Dresslerella Sijmiana* - Ecuagenera
 - *Lepanthes Calodictyon* - [MoonlightMileOrchids](https://www.etsy.com/shop/MoonlightMileOrchids?ref=yr_purchases) - this one has been blooming continuously since it arrived.
 
-<img src="/images/2026-01-19/lepanthes-calodictyon-bloom.jpeg" class="medium">
-*Lepanthes Calodictyon, continuously blooming in my terrarium and growing 3 new leaves!*
+<img src="/images/2026-01-19/lepanthes-calodictyon-bloom-2.jpeg" class="medium">
+*Lepanthes Calodictyon, continuously blooming in my terrarium and growing 4 new leaves!*
 
 - *Lepanthes telipogoniflora* - Ecuagenera
 - *Lockhartia Goyazensis* - [LouisianaOrchid](https://www.etsy.com/shop/LouisianaOrchid24?ref=yr_purchases)
