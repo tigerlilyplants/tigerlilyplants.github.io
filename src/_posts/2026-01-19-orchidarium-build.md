@@ -151,12 +151,15 @@ The following species list tracks everything I intentionally placed in this terr
 - *Begonia '100* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
 - *Begonia '111* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
 - *Begonia '222* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
+- *Begonia Abdullahpieei* - [MyGreenObsession](https://www.etsy.com/shop/MyGreenObsession?ref=yr_purchases)
 - *Begonia Bipinnatifida* - [SunshineGreens](https://www.etsy.com/shop/SunshineGreens?ref=yr_purchases)
 - *Begonia Chlorosticta sp. Green* - [DingPlants](https://www.etsy.com/shop/DingPlants?ref=yr_purchases)
+- *Begonia Minutifolia* - [MyGreenObsession](https://www.etsy.com/shop/MyGreenObsession?ref=yr_purchases)
 - *Begonia Pteridiformis* - [SproutedSiren](https://www.etsy.com/shop/SproutedSiren?ref=yr_purchases)
 - *Begonia Pearcei* - [JurassicJohn](https://www.etsy.com/shop/JurassicJohn?ref=yr_purchases)
 - *Begonia Vankerckhovenii* - [MyGreenObsession](https://www.etsy.com/shop/MyGreenObsession?ref=yr_purchases)
 - *Ceratostema Glans* - [WilWestBotanicals](https://www.etsy.com/shop/wilwestbotanicals?ref=yr_purchases)
+- *Corytoplectus Cutucuensis* - [MyGreenObsession](https://www.etsy.com/shop/MyGreenObsession?ref=yr_purchases)
 - *Hypnum Imponens* (moss) - I should probably invest in other types of moss:)
 - *Leucolepis acanthoneura (tree moss)* - [PlantPassion777](https://www.etsy.com/shop/PlantPassion777?ref=yr_purchases)
 - *Marcgravia Rectiflora* - [NextLvlRareTropicals](https://www.etsy.com/shop/NextLvlRareTropicals?ref=yr_purchases)
@@ -166,5 +169,6 @@ The following species list tracks everything I intentionally placed in this terr
 - *Selaginella Diffusa* - [SunStateFoliage](https://www.etsy.com/shop/SunshineStateFoliage?ref=yr_purchases)
 - *Selaginella Erythropus 'Sanguinea'* - [GlassAqua](https://www.etsy.com/shop/GlassAqua?ref=yr_purchases)
 - *Selaginella Wildenowii* - [Botanicaz](https://www.etsy.com/shop/Botanicaz?ref=yr_purchases)
+- *Solanum sp. Ecuador* - [MyGreenObsession](https://www.etsy.com/shop/MyGreenObsession?ref=yr_purchases)
 
 {{ page.last_modified_at }}
