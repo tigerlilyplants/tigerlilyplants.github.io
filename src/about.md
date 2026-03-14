@@ -6,7 +6,7 @@ permalink: /about/
 
 <style type="text/css" media="screen">
   img {
-    width: 90%;
+    width: 70%;
     display: block;
     margin: 0 auto;
   }
