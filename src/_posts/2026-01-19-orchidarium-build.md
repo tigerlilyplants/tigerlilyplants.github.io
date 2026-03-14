@@ -106,7 +106,7 @@ The following species list tracks everything I intentionally placed in this terr
 - *Dresslerella Pertusa* - [GrowingMiniature](https://www.etsy.com/shop/GrowingMiniature?ref=yr_purchases) - this one is presently blooming as well:)
 
 <img src="/images/2026-01-19/dresslerella-pertusa.jpeg" class="medium">
-*Lepanthes Calodictyon, continuously blooming in my terrarium and growing 4 new leaves!*
+*Dresslerella Pertusa. I first spotted a Dresslerella at the Atlanta Botanical Gardens.*
 
 - *Dresslerella Sijmiana* - Ecuagenera
 - *Lepanthes Calodictyon* - [MoonlightMileOrchids](https://www.etsy.com/shop/MoonlightMileOrchids?ref=yr_purchases) - this one has been blooming continuously since it arrived.
