@@ -41,23 +41,16 @@ The orchids in personal collection have been blooming a lot this year, so I thou
 <!--more-->
 
 ![Orchid bloom 2](/images/2026-06-11/11C6BEA7-02CE-4754-8789-5C3B150C05FD_1_105_c.jpeg)
-*A*
-
-![Orchid bloom 3](/images/2026-06-11/18C28313-A512-4626-9C0E-15860FBAA3E1_1_105_c.jpeg)
-
-![Orchid bloom 4](/images/2026-06-11/26E47564-5B8A-4630-8F89-065C981D18A3_1_102_o.jpeg)
+*A coconut orchid that's re-bloomed for me after 2 years of new growth.*
 
 ![Orchid bloom 5](/images/2026-06-11/290DC346-365C-43EE-B14E-EBD5EB416FF0_1_105_c.jpeg)
+*A gastrochilus in bloom. I got this plant recently from Rainbeau Orchids.*
 
 ![Orchid bloom 6](/images/2026-06-11/2CF8E423-9E92-4801-BBE6-887D142EF3A5_1_102_o.jpeg)
-
-![Orchid bloom 7](/images/2026-06-11/2D4514B6-8ABD-43CC-AA92-247A2153457E_1_105_c.jpeg)
-
-![Orchid bloom 8](/images/2026-06-11/2D5C5923-54E0-4B58-8A33-27513E6AC1B9_1_105_c.jpeg)
-
-![Orchid bloom 9](/images/2026-06-11/36E857C2-FCCE-48D6-AEEC-028688EB4B1D_1_102_a.jpeg)
+*I have maybe half a dozen different species of dendrochilums. They're incredibly easy to grow and frequently bloom throughout the year.*
 
 ![Orchid bloom 10](/images/2026-06-11/3818DF58-97AA-46E6-8459-06DE6C181621_1_105_c.jpeg)
+**
 
 ![Orchid bloom 11](/images/2026-06-11/3870307D-5AE5-4EC4-AE43-A4DE0C9C9B88_1_105_c.jpeg)
 
@@ -76,5 +69,18 @@ The orchids in personal collection have been blooming a lot this year, so I thou
 ![Orchid bloom 18](/images/2026-06-11/C9733B25-3391-4976-B9E7-3470C7A98D14_4_5005_c.jpeg)
 
 ![My first epiphytic orchid bloom](/images/2026-06-11/My-first-epiphytic-orchid-bloomed-for-the-first-time-this-past-January.jpeg)
+
+## Terrarium blooms
+
+### Hexagonal terrarium
+
+![Orchid bloom 9](/images/2026-06-11/36E857C2-FCCE-48D6-AEEC-028688EB4B1D_1_102_a.jpeg)
+*A carnivorous plant in bloom.*
+
+### New terrarium build
+
+Stay tuned for updates on my new terrarium build!
+
+![Orchid bloom 4](/images/2026-06-11/26E47564-5B8A-4630-8F89-065C981D18A3_1_102_o.jpeg)
 
 {{ page.last_modified_at }}
