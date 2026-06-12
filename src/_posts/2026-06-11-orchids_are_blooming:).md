@@ -75,19 +75,23 @@ I have [Gastrochilus Hoi](https://www.etsy.com/listing/4494456036/gastrochilus-h
 
 Similar to many of the other orchids here, I keep dendrochilums' roots moist. They're hardly as thick as phalanopsis roots and the bulbs tend to start to shrink from dehydration after only a couple days at ambient humidity if they are not kept wet.
 
-![Bulbophyllums](/images/2026-06-11/5EE036A4-7850-4F20-8D70-50184717E2BF_1_105_c.jpeg)
+#### Bulbophyllums
+
+![Bulbophyllums](/images/2026-06-11/C9733B25-3391-4976-B9E7-3470C7A98D14_4_5005_c.jpeg)
 
 A couple bulbophyllums in my collection that bloomed at the same time:) The stringier one I bought from Rainbeau Orchids, again, and it has bloomed 3-4 times since then, sometimes even two spikes at the same time (hardly the biggest I've seen though).
 
-![Orchid bloom 17](/images/2026-06-11/9E0B4164-D4E4-4CCD-80F7-2A1DB80CD438_1_105_c.jpeg)
+![Bulbophyllums](/images/2026-06-11/5EE036A4-7850-4F20-8D70-50184717E2BF_1_105_c.jpeg)
 
-![Orchid bloom 18](/images/2026-06-11/C9733B25-3391-4976-B9E7-3470C7A98D14_4_5005_c.jpeg)
+Bulbophyllums are super easy to grow in my experience and appreciate daily watering or >80% humidity. I have yet to lose a single orchid in this genus. I highly recommend these as beginner orchids.
 
 ### Terrarium blooms
 
 #### My first terrarium
 
-![Begonia vankerckhovenii](/images/2026-06-11/8B6067C5-5901-49B1-8ED6-E2EF4AB07F6C_1_105_c.jpeg)
+My first terrarium, which may be viewed in an earlier post, was an experiment. I wanted to be able to minimally control the humidity in a closed space with a controller to avoid daily watering. This terrarium has been going strong now for nearly a year.
+
+![Begonia vankerckhovenii](/images/2026-06-11/9E0B4164-D4E4-4CCD-80F7-2A1DB80CD438_1_105_c.jpeg)
 
 Begonia vankerckhovenii is an easy bloomer, but its large yellow flowers never fail to impress.
 
