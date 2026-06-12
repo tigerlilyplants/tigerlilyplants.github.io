@@ -63,6 +63,8 @@ Phalanopsis orchids tend to be fine with periods of dryness as they have thick r
 
 ![Bulbophyllums](/images/2026-06-11/8B6067C5-5901-49B1-8ED6-E2EF4AB07F6C_1_105_c.jpeg)
 
+![Bulbophyllums](/images/2026-06-11/5EE036A4-7850-4F20-8D70-50184717E2BF_1_105_c.jpeg)
+
 A couple bulbophyllums in my collection that bloomed at the same time:) The stringier one I bought from Rainbeau Orchids, again, and it has bloomed 3-4 times since then, sometimes even two spikes at the same time (hardly the biggest I've seen though).
 
 ![Orchid bloom 17](/images/2026-06-11/9E0B4164-D4E4-4CCD-80F7-2A1DB80CD438_1_105_c.jpeg)
@@ -97,8 +99,6 @@ I love Lepanthes, but they can be difficult to care for. Pictured here are both 
 A Lepanthes gargoyla in bloom. This one has been relatively easy to care for, but I am concerned that the moss will eventually outgrow the plant. Unlike Calodictyon, this Lepanthes does not appear to be a continuous bloomer.
 
 ![Orchid bloom 11](/images/2026-06-11/3870307D-5AE5-4EC4-AE43-A4DE0C9C9B88_1_105_c.jpeg)
-
-![Orchid bloom 14](/images/2026-06-11/5EE036A4-7850-4F20-8D70-50184717E2BF_1_105_c.jpeg)
 
 #### New terrarium build
 
