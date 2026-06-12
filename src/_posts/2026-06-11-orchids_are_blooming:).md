@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Orchids are blooming:)"
+title:  "Orchids in bloom"
 tags: plants
 excerpt_separator: <!--more-->
 ---
@@ -40,6 +40,18 @@ The orchids in personal collection have been blooming a lot this year, so I thou
 
 <!--more-->
 
+### Potted Orchids
+
+![My first epiphytic orchid bloom](/images/2026-06-11/My-first-epiphytic-orchid-bloomed-for-the-first-time-this-past-January.jpeg)
+
+This was my first orchid, it's what got me into the hobby in the first place!
+
+I learned that the roots tell all: whether an orchid is healthy, underwatered, or overwatered. It's easy to discern the state in this manner because the roots poking out of the media will be a silvery-gray and start to shrink when the velamen (the spongy outer layer of the roots that holds and absorbs moisture) is starting to dry out.
+
+When the velamen dries out, depending on the species of orchid, this can lead to the rest of the plant's decay; some plants are easily affected by dryness, like the Lepanthes I included at the outset of this post, and require constant moisture.
+
+Phalanopsis orchids tend to be fine with periods of dryness as they have thick roots. My general rule of thumb for growing is, the smaller the roots, the more frequently I water and the lower the concentration of fertilizer to 1/2-1/8th the typical strength.
+
 ![Orchid bloom 2](/images/2026-06-11/11C6BEA7-02CE-4754-8789-5C3B150C05FD_1_105_c.jpeg)
 *A coconut orchid that's re-bloomed for me after 2 years of new growth.*
 
@@ -49,31 +61,29 @@ The orchids in personal collection have been blooming a lot this year, so I thou
 ![Orchid bloom 6](/images/2026-06-11/2CF8E423-9E92-4801-BBE6-887D142EF3A5_1_102_o.jpeg)
 *I have maybe half a dozen different species of dendrochilums. They're incredibly easy to grow and frequently bloom throughout the year.*
 
-![Orchid bloom 11](/images/2026-06-11/3870307D-5AE5-4EC4-AE43-A4DE0C9C9B88_1_105_c.jpeg)
+![Bulbophyllums](/images/2026-06-11/8B6067C5-5901-49B1-8ED6-E2EF4AB07F6C_1_105_c.jpeg)
 
-![Orchid bloom 12](/images/2026-06-11/55FA7576-656E-4038-B9B1-8D121FDD8D08_1_105_c.jpeg)
-
-![Orchid bloom 13](/images/2026-06-11/5D227A48-9D58-4B6D-ADCA-A29A1A451D99_1_102_a.jpeg)
-
-![Orchid bloom 14](/images/2026-06-11/5EE036A4-7850-4F20-8D70-50184717E2BF_1_105_c.jpeg)
-
-![Orchid bloom 15](/images/2026-06-11/8B6067C5-5901-49B1-8ED6-E2EF4AB07F6C_1_105_c.jpeg)
-
-![Orchid bloom 16](/images/2026-06-11/8B783F83-C524-4319-BF1A-645D95E5C037_1_105_c.jpeg)
+A couple bulbophyllums in my collection that bloomed at the same time:) The stringier one I bought from Rainbeau Orchids, again, and it has bloomed 3-4 times since then, sometimes even two spikes at the same time (hardly the biggest I've seen though).
 
 ![Orchid bloom 17](/images/2026-06-11/9E0B4164-D4E4-4CCD-80F7-2A1DB80CD438_1_105_c.jpeg)
 
 ![Orchid bloom 18](/images/2026-06-11/C9733B25-3391-4976-B9E7-3470C7A98D14_4_5005_c.jpeg)
 
-![My first epiphytic orchid bloom](/images/2026-06-11/My-first-epiphytic-orchid-bloomed-for-the-first-time-this-past-January.jpeg)
+### Terrarium blooms
 
-## Terrarium blooms
+#### My first terrarium
 
-### My first terrarium
+![Bulbophyllum dennisii](/images/2026-06-11/55FA7576-656E-4038-B9B1-8D121FDD8D08_1_105_c.jpeg)
 
+My smaller / first terrarium still has blooms:) Bulbophyllum dennisii has only bloomed once for me in the several years of my time in the hobby.
 
+![Orchid bloom 13](/images/2026-06-11/5D227A48-9D58-4B6D-ADCA-A29A1A451D99_1_102_a.jpeg)
 
-### Hexagonal terrarium
+![Begonia vankerckhovenii](/images/2026-06-11/8B783F83-C524-4319-BF1A-645D95E5C037_1_105_c.jpeg)
+
+Begonia vankerckhovenii is an easy bloomer, but its large yellow flowers never fail to impress.
+
+#### Hexagonal terrarium
 
 ![Orchid bloom 9](/images/2026-06-11/36E857C2-FCCE-48D6-AEEC-028688EB4B1D_1_102_a.jpeg)
 *A carnivorous plant in bloom.*
@@ -86,7 +96,11 @@ I love Lepanthes, but they can be difficult to care for. Pictured here are both 
 
 A Lepanthes gargoyla in bloom. This one has been relatively easy to care for, but I am concerned that the moss will eventually outgrow the plant. Unlike Calodictyon, this Lepanthes does not appear to be a continuous bloomer.
 
-### New terrarium build
+![Orchid bloom 11](/images/2026-06-11/3870307D-5AE5-4EC4-AE43-A4DE0C9C9B88_1_105_c.jpeg)
+
+![Orchid bloom 14](/images/2026-06-11/5EE036A4-7850-4F20-8D70-50184717E2BF_1_105_c.jpeg)
+
+#### New terrarium build
 
 Stay tuned for updates on my new terrarium build!
 
