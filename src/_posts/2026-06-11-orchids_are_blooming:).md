@@ -52,14 +52,28 @@ When the velamen dries out, depending on the species of orchid, this can lead to
 
 Phalanopsis orchids tend to be fine with periods of dryness as they have thick roots. My general rule of thumb for growing is, the smaller the roots, the more frequently I water and the lower the concentration of fertilizer to 1/2-1/8th the typical strength.
 
+#### Coconut orchids
+
 ![Orchid bloom 2](/images/2026-06-11/11C6BEA7-02CE-4754-8789-5C3B150C05FD_1_105_c.jpeg)
 *A coconut orchid that's re-bloomed for me after 2 years of new growth.*
+
+Coconut orchids are relatively easy to grow. I tend to keep the roots moist for the most part, with short periods of dryness. This is the first coconut orchid that has rebloomed for me after about 2 years of new growth. In that time, it's nearly doubled in size as bulbs have come in.
+
+#### Gastrochilus
 
 ![Orchid bloom 5](/images/2026-06-11/290DC346-365C-43EE-B14E-EBD5EB416FF0_1_105_c.jpeg)
 *A gastrochilus in bloom. I got this plant recently from Rainbeau Orchids.*
 
+Gastrochilus like to stay wet in my experience. I bought this particular orchid from Rainbeau, which is a greenhouse I frequent.
+
+I have [Gastrochilus Hoi](https://www.etsy.com/listing/4494456036/gastrochilus-hoii-mini-orchid) on my storefront if you'd like to give one a try.
+
+#### Dendrochilum
+
 ![Orchid bloom 6](/images/2026-06-11/2CF8E423-9E92-4801-BBE6-887D142EF3A5_1_102_o.jpeg)
-*I have maybe half a dozen different species of dendrochilums. They're incredibly easy to grow and frequently bloom throughout the year.*
+*Dendrochilum tenellum.*
+
+Similar to many of the other orchids here, I keep dendrochilums' roots moist. They're hardly as thick as phalanopsis roots and the bulbs tend to start to shrink from dehydration after only a couple days at ambient humidity if they are not kept wet.
 
 ![Bulbophyllums](/images/2026-06-11/8B6067C5-5901-49B1-8ED6-E2EF4AB07F6C_1_105_c.jpeg)
 
