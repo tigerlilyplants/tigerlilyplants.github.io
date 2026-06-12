@@ -49,9 +49,6 @@ The orchids in personal collection have been blooming a lot this year, so I thou
 ![Orchid bloom 6](/images/2026-06-11/2CF8E423-9E92-4801-BBE6-887D142EF3A5_1_102_o.jpeg)
 *I have maybe half a dozen different species of dendrochilums. They're incredibly easy to grow and frequently bloom throughout the year.*
 
-![Orchid bloom 10](/images/2026-06-11/3818DF58-97AA-46E6-8459-06DE6C181621_1_105_c.jpeg)
-**
-
 ![Orchid bloom 11](/images/2026-06-11/3870307D-5AE5-4EC4-AE43-A4DE0C9C9B88_1_105_c.jpeg)
 
 ![Orchid bloom 12](/images/2026-06-11/55FA7576-656E-4038-B9B1-8D121FDD8D08_1_105_c.jpeg)
@@ -72,10 +69,22 @@ The orchids in personal collection have been blooming a lot this year, so I thou
 
 ## Terrarium blooms
 
+### My first terrarium
+
+
+
 ### Hexagonal terrarium
 
 ![Orchid bloom 9](/images/2026-06-11/36E857C2-FCCE-48D6-AEEC-028688EB4B1D_1_102_a.jpeg)
 *A carnivorous plant in bloom.*
+
+![Orchid bloom 10](/images/2026-06-11/3818DF58-97AA-46E6-8459-06DE6C181621_1_105_c.jpeg)
+
+I love Lepanthes, but they can be difficult to care for. Pictured here are both a Lepanthes Calodictyon and Lepanthes
+
+![Orchid bloom 1](/images/2026-06-11/07459B6D-C2E9-42B8-A9FD-7BDEC8F79B27_1_105_c.jpeg)
+
+A Lepanthes gargoyla in bloom. This one has been relatively easy to care for, but I am concerned that the moss will eventually outgrow the plant. Unlike Calodictyon, this Lepanthes does not appear to be a continuous bloomer.
 
 ### New terrarium build
 
