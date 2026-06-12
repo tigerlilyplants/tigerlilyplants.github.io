@@ -75,8 +75,6 @@ I have [Gastrochilus Hoi](https://www.etsy.com/listing/4494456036/gastrochilus-h
 
 Similar to many of the other orchids here, I keep dendrochilums' roots moist. They're hardly as thick as phalanopsis roots and the bulbs tend to start to shrink from dehydration after only a couple days at ambient humidity if they are not kept wet.
 
-![Bulbophyllums](/images/2026-06-11/8B6067C5-5901-49B1-8ED6-E2EF4AB07F6C_1_105_c.jpeg)
-
 ![Bulbophyllums](/images/2026-06-11/5EE036A4-7850-4F20-8D70-50184717E2BF_1_105_c.jpeg)
 
 A couple bulbophyllums in my collection that bloomed at the same time:) The stringier one I bought from Rainbeau Orchids, again, and it has bloomed 3-4 times since then, sometimes even two spikes at the same time (hardly the biggest I've seen though).
@@ -89,15 +87,17 @@ A couple bulbophyllums in my collection that bloomed at the same time:) The stri
 
 #### My first terrarium
 
+![Begonia vankerckhovenii](/images/2026-06-11/8B6067C5-5901-49B1-8ED6-E2EF4AB07F6C_1_105_c.jpeg)
+
+Begonia vankerckhovenii is an easy bloomer, but its large yellow flowers never fail to impress.
+
 ![Bulbophyllum dennisii](/images/2026-06-11/55FA7576-656E-4038-B9B1-8D121FDD8D08_1_105_c.jpeg)
 
 My smaller / first terrarium still has blooms:) Bulbophyllum dennisii has only bloomed once for me in the several years of my time in the hobby.
 
 ![Orchid bloom 13](/images/2026-06-11/5D227A48-9D58-4B6D-ADCA-A29A1A451D99_1_102_a.jpeg)
 
-![Begonia vankerckhovenii](/images/2026-06-11/8B783F83-C524-4319-BF1A-645D95E5C037_1_105_c.jpeg)
-
-Begonia vankerckhovenii is an easy bloomer, but its large yellow flowers never fail to impress.
+![](/images/2026-06-11/8B783F83-C524-4319-BF1A-645D95E5C037_1_105_c.jpeg)
 
 #### Hexagonal terrarium
 
