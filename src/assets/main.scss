@@ -262,6 +262,42 @@ body {
   margin-bottom: 3rem;
 }
 
+.pagination {
+  align-items: center;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: 1fr auto 1fr;
+  margin: 1rem 0 2rem;
+}
+
+.pagination-link {
+  border: 1px solid #c17d56;
+  border-radius: 4px;
+  display: inline-block;
+  font-weight: 600;
+  padding: 0.45rem 0.8rem;
+  text-decoration: none;
+}
+
+.pagination-link:hover {
+  background: rgba(193, 125, 86, 0.12);
+  text-decoration: none;
+}
+
+.pagination-previous {
+  justify-self: start;
+}
+
+.pagination-next {
+  justify-self: end;
+}
+
+.pagination-page {
+  color: #828282;
+  font-size: 0.9rem;
+  justify-self: center;
+}
+
 .wrapper {
   width: auto;
   max-width: 800px;
