@@ -1,5 +1,4 @@
 {%- assign utterances_repo = site.utterances.repo | default: "tigerlilyplants/tigerlilyplants.github.io" -%}
-{%- assign utterances_label = site.utterances.label | default: "Comment" -%}
 
 <script>
   (function() {
@@ -10,15 +9,20 @@
     }
 
     var repo = "{{ utterances_repo }}";
-    var label = "{{ utterances_label }}";
     var issuesUrl = "https://api.github.com/repos/" + repo + "/issues";
 
     function normalizePath(path) {
       try {
-        return new URL(path, window.location.origin).pathname;
+        path = new URL(path, window.location.origin + "/").pathname;
       } catch (error) {
-        return path;
+        path = path || "";
       }
+
+      if (path.charAt(0) !== "/") {
+        path = "/" + path;
+      }
+
+      return path.replace(/\/?$/, "/");
     }
 
     function commentText(count) {
@@ -33,7 +37,10 @@
       countLinks.forEach(function(link) {
         var path = normalizePath(link.getAttribute("data-comment-path"));
         var issue = issues.find(function(candidate) {
-          return !candidate.pull_request && issueTitleMatchesPath(candidate.title, path);
+          return !candidate.pull_request &&
+            candidate.user &&
+            candidate.user.login === "utterances-bot" &&
+            issueTitleMatchesPath(candidate.title, path);
         });
         var count = issue ? issue.comments : 0;
 
@@ -42,7 +49,7 @@
     }
 
     function fetchIssues(page) {
-      var url = issuesUrl + "?state=all&labels=" + encodeURIComponent(label) + "&per_page=100&page=" + page;
+      var url = issuesUrl + "?state=all&creator=utterances-bot&per_page=100&page=" + page;
 
       return fetch(url, {
         headers: {
