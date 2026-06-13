@@ -1,0 +1,74 @@
+{%- assign utterances_repo = site.utterances.repo | default: "tigerlilyplants/tigerlilyplants.github.io" -%}
+{%- assign utterances_label = site.utterances.label | default: "Comment" -%}
+
+<script>
+  (function() {
+    var countLinks = Array.prototype.slice.call(document.querySelectorAll("[data-comment-path]"));
+
+    if (!countLinks.length) {
+      return;
+    }
+
+    var repo = "{{ utterances_repo }}";
+    var label = "{{ utterances_label }}";
+    var issuesUrl = "https://api.github.com/repos/" + repo + "/issues";
+
+    function normalizePath(path) {
+      try {
+        return new URL(path, window.location.origin).pathname;
+      } catch (error) {
+        return path;
+      }
+    }
+
+    function commentText(count) {
+      return count + " " + (count === 1 ? "comment" : "comments");
+    }
+
+    function issueTitleMatchesPath(issueTitle, path) {
+      return normalizePath(issueTitle || "") === path;
+    }
+
+    function renderCounts(issues) {
+      countLinks.forEach(function(link) {
+        var path = normalizePath(link.getAttribute("data-comment-path"));
+        var issue = issues.find(function(candidate) {
+          return !candidate.pull_request && issueTitleMatchesPath(candidate.title, path);
+        });
+        var count = issue ? issue.comments : 0;
+
+        link.textContent = commentText(count);
+      });
+    }
+
+    function fetchIssues(page) {
+      var url = issuesUrl + "?state=all&labels=" + encodeURIComponent(label) + "&per_page=100&page=" + page;
+
+      return fetch(url, {
+        headers: {
+          Accept: "application/vnd.github+json"
+        }
+      }).then(function(response) {
+        if (!response.ok) {
+          throw new Error("Unable to load comment counts");
+        }
+
+        return response.json();
+      }).then(function(issues) {
+        if (issues.length === 100 && page < 5) {
+          return fetchIssues(page + 1).then(function(nextIssues) {
+            return issues.concat(nextIssues);
+          });
+        }
+
+        return issues;
+      });
+    }
+
+    fetchIssues(1).then(renderCounts).catch(function() {
+      countLinks.forEach(function(link) {
+        link.textContent = "Comments";
+      });
+    });
+  }());
+</script>

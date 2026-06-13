@@ -7,6 +7,9 @@ layout: default
 {% for post in site.tags[page.tag] %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
     {{ post.description }}
+    {%- if post.comments != false -%}
+      <p class="post-meta post-comment-meta">{%- include comment_count.html post=post -%}</p>
+    {%- endif -%}
   </li>
 {% endfor %}
 </ul>

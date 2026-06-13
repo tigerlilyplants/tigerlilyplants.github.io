@@ -19,6 +19,11 @@ paginate: 5
 paginate_path: /posts/page:num/
 google_analytics: G-SCV21971PF
 
+utterances:
+  repo: tigerlilyplants/tigerlilyplants.github.io
+  issue_term: pathname
+  label: Comment
+
 sass:
   style: expanded
   sass_dir: _sass/

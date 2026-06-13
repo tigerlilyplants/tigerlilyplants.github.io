@@ -1,0 +1,2 @@
+{%- assign comment_post = include.post | default: page -%}
+{%- if comment_post.comments != false -%}<a class="comment-count" href="{{ comment_post.url | relative_url }}#comments" data-comment-path="{{ comment_post.url | relative_url }}">Comments</a>{%- endif -%}
