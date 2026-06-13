@@ -3,6 +3,7 @@ layout: post
 title:  "Orchids in bloom"
 tags: plants
 excerpt_separator: <!--more-->
+toc: true
 ---
 
 <style type="text/css" media="screen">
