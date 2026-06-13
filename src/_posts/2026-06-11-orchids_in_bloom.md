@@ -34,7 +34,7 @@ toc: true
   }
 </style>
 
-The orchids in my personal collection have been blooming a lot this year, so I thought I would share some of the flowers and what I have learned from growing each plant.
+The orchids in my personal collection have been blooming a lot this year, so I thought I would share some of the flowers and what I have learned from growing each plant:)
 
 ![Orchid bloom 1](/images/2026-06-11/07459B6D-C2E9-42B8-A9FD-7BDEC8F79B27_1_105_c.jpeg)
 *A Lepanthes blooming in my hexagonal terrarium. I wrote more about this build in my [orchidarium post](/2026/01/19/orchidarium-build/).*
@@ -132,7 +132,7 @@ I love Lepanthes, and they may even be my favorite orchid genus, but they can be
 
 This is Lepanthes gargoyla in bloom. It has been relatively easy to care for, but I am concerned that the moss may eventually outgrow the plant. Unlike Lepanthes calodictyon, this one does not appear to be a continuous bloomer.
 
-#### Yet another terrarium build
+### Yet another terrarium build!
 
 Stay tuned for updates on my next terrarium build. It is based on a full, upright Ikea cabinet, of all things.
 
