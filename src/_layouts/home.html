@@ -42,21 +42,21 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    {%- if paginator and paginator.total_pages > 1 -%}
+    {% if paginator and paginator.total_pages > 1 %}
       <nav class="pagination" aria-label="Posts pagination">
-        {%- if paginator.previous_page -%}
+        {% if paginator.previous_page %}
           <a class="pagination-link pagination-previous" href="{{ paginator.previous_page_path | relative_url }}">&lt; previous</a>
-        {%- else -%}
+        {% else %}
           <span class="pagination-spacer" aria-hidden="true"></span>
-        {%- endif -%}
+        {% endif %}
         <span class="pagination-page">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-        {%- if paginator.next_page -%}
+        {% if paginator.next_page %}
           <a class="pagination-link pagination-next" href="{{ paginator.next_page_path | relative_url }}">next &gt;</a>
-        {%- else -%}
+        {% else %}
           <span class="pagination-spacer" aria-hidden="true"></span>
-        {%- endif -%}
+        {% endif %}
       </nav>
-    {%- endif -%}
+    {% endif %}
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
