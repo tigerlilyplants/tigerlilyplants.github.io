@@ -103,11 +103,13 @@ My first terrarium, which I shared in an earlier post, was an experiment. I want
 
 Begonia vankerckhovenii is an easy bloomer, and its large yellow flowers never fail to impress.
 
-![Bulbophyllum dennisii](/images/2026-06-11/55FA7576-656E-4038-B9B1-8D121FDD8D08_1_105_c.jpeg)
+![Masdevallia erinacea](/images/2026-06-11/55FA7576-656E-4038-B9B1-8D121FDD8D08_1_105_c.jpeg)
+
+Masdevallia erinacea has finally put out a couple blooms for me. It did take a couple iterations (and a second plant, unfortunately; the original I planted here was one of the minis I lost when I was first getting started :/) with this one. I think I've settled on it needing weak fertilizer, 1/4 strength roughly, 80% humidity and rather bright lighting to ensure it grows faster than it "melts" or decays in such a high humidity, but I'm curious about others' experience growing this one. I suspect it would actually do just fine on a shelf / potted in well-draining / medium coarsity media, such as a black aquarium gravel, in about 60-70% humidity and wouldn't mind temporary periods of dryness / unfertilized water, followed by prolonged periods of wetness to ensure adequate root growth.
+
+![Bulbophyllum dennisii](/images/2026-06-11/3870307D-5AE5-4EC4-AE43-A4DE0C9C9B88_1_105_c.jpeg)
 
 Bulbophyllum dennisii has bloomed for me only once since I fixed it to the log, but it has put on impressive, tight growth. I expected the flowers to be a bit more pink, but they are a stark yellow.
-
-![Orchid bloom 11](/images/2026-06-11/3870307D-5AE5-4EC4-AE43-A4DE0C9C9B88_1_105_c.jpeg)
 
 #### Hexagonal terrarium
 
