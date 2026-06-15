@@ -132,7 +132,9 @@ I love Lepanthes, and they may even be my favorite orchid genus, but they can be
 
 ![Orchid bloom 1](/images/2026-06-11/07459B6D-C2E9-42B8-A9FD-7BDEC8F79B27_1_105_c.jpeg)
 
-This is Lepanthes gargoyla in bloom. It has been relatively easy to care for, but I am concerned that the moss may eventually outgrow the plant. Unlike Lepanthes calodictyon, this one does not appear to be a continuous bloomer.
+This is Lepanthes gargoyla in bloom. It has been relatively easy to care for in this setting, but I am concerned that the moss may eventually outgrow the plant due to a lack of airflow in the space it is in. .
+
+Unlike Calodictyon, this one does not appear to be a continuous bloomer, at least not at this time, but I have seen 2 new leaves come in!:)
 
 ### Yet another terrarium build!
 
@@ -140,6 +142,4 @@ Stay tuned for updates on my next terrarium build. It is based on a full, uprigh
 
 ![Orchid bloom 4](/images/2026-06-11/26E47564-5B8A-4630-8F89-065C981D18A3_1_102_o.jpeg)
 
-I am building a custom controller that I hope to sell at some point, and I am also looking forward to moving a large portion of my collection into this setup once it is finished.
-
-{{ page.last_modified_at }}
+I am building a custom controller that I hope to sell and open source the plans for at some point, and I am also looking forward to moving a large portion of my collection into this setup once it is finished.
