@@ -81,13 +81,14 @@ That said, they still do relatively well outside a terrarium as long as I stay c
 #### Bulbophyllums
 
 ![Bulbophyllums](/images/2026-06-11/5EE036A4-7850-4F20-8D70-50184717E2BF_1_105_c.jpeg)
-*Two Bulbophyllums in my collection blooming at the same time.*
+*Two Bulbophyllums in my collection blooming at the same time. I don't know the species/hybrid on the left, but the right is Bulbophyllum trigonopus (*
 
 I have never lost a Bulbophyllum. They make excellent beginner orchids for anyone who does not mind watering them every other day or so. Their care reminds me a lot of Dendrochilum: steady moisture, good airflow, and patience.
 
 I bought the one on the left from Rainbeau Orchids, and it has bloomed three or four times since then, sometimes with two spikes at once.
 
 ![Bulbophyllums](/images/2026-06-11/9E0B4164-D4E4-4CCD-80F7-2A1DB80CD438_1_105_c.jpeg)
+*Bulbophyllum trigonopus*
 
 In my experience, these plants are very easy to grow and appreciate daily watering or humidity above 80%.
 
