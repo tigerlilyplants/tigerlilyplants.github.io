@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Orchids
 # redirect_to: https://etsy.com/shop/TigerLilyPlants
 layout: page
 permalink: /store/
