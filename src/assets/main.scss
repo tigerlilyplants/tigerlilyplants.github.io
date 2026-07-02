@@ -392,13 +392,19 @@ body {
   margin-top: -3px;
 }
 
+.footer-nav a.footer-nav-logo-link {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  white-space: nowrap;
+}
+
 .github-footer-logo {
   width: 22px;
   height: 22px;
   float: none;
-  padding-left: 8px;
+  padding-left: 0;
   margin-top: 0;
-  vertical-align: middle;
 }
 
 // Contact
