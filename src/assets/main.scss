@@ -384,11 +384,16 @@ body {
   border-radius: 8px;
 }
 
-.etsy-footer-logo {
+.etsy-footer-logo,
+.github-footer-logo {
   width: 30px;
   float: right;
   padding-left: 10px;
   margin-top: -3px;
+}
+
+.github-footer-logo {
+  height: 30px;
 }
 
 
