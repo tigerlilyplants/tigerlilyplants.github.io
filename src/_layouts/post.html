@@ -4,7 +4,12 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name begonia-leaf-left-post" itemprop="name headline">{{ page.title | escape }}</h1>
+    {%- assign title_icon_class = "begonia-leaf-left-post" -%}
+    {%- assign post_title_downcase = page.title | downcase -%}
+    {%- if page.title_icon == "orchid" or page.tags contains "orchids" or post_title_downcase contains "orchid" -%}
+      {%- assign title_icon_class = "orchid-left-post" -%}
+    {%- endif -%}
+    <h1 class="post-title p-name {{ title_icon_class }}" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

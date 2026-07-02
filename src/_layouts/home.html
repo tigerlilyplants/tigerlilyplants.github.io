@@ -21,7 +21,12 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3 class="begonia-leaf-left">
+        {%- assign title_icon_class = "begonia-leaf-left" -%}
+        {%- assign post_title_downcase = post.title | downcase -%}
+        {%- if post.title_icon == "orchid" or post.tags contains "orchids" or post_title_downcase contains "orchid" -%}
+          {%- assign title_icon_class = "orchid-left" -%}
+        {%- endif -%}
+        <h3 class="{{ title_icon_class }}">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>

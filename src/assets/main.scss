@@ -144,10 +144,26 @@
     background-position: left center;
 }
 
+.orchid-left {
+    padding-left: 34px; /* make room for image */
+    background-image: url("/images/orchid.png");
+    background-size: 26px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
 .begonia-leaf-left-post {
     padding-left: 35px; /* make room for image */
     background-image: url("/images/begonia_leaf.png");
     background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.orchid-left-post {
+    padding-left: 42px; /* make room for image */
+    background-image: url("/images/orchid.png");
+    background-size: 32px;
     background-repeat: no-repeat;
     background-position: left center;
 }
