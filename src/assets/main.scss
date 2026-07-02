@@ -144,10 +144,6 @@
     background-position: left center;
 }
 
-.footer-nav a.begonia-leaf-left {
-    padding-left: 30px;
-}
-
 .begonia-leaf-left-post {
     padding-left: 35px; /* make room for image */
     background-image: url("/images/begonia_leaf.png");
@@ -402,6 +398,13 @@ body {
   float: none;
   padding-left: 8px;
   margin-top: 0;
+  vertical-align: middle;
+}
+
+.begonia-footer-logo {
+  width: 20px;
+  height: 20px;
+  padding-left: 8px;
   vertical-align: middle;
 }
 
